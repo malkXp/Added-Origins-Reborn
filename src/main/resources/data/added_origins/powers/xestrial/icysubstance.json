@@ -1,0 +1,21 @@
+{
+	"type": "origins:modify_damage_dealt",
+	"modifier": {
+		"name": "The amplification of the cold",
+		"operation": "multiply_total",
+		"value": 0.5
+	},
+	"condition": {
+		"type": "origins:biome",
+		"condition": {
+			"type": "origins:temperature",
+			"comparison": "<=",
+			"compare_to": 0.5
+		}
+	},
+	"target_action": {
+		"type": "origins:spawn_particles",
+		"particle": "minecraft:glow",
+		"count": 5
+	}
+}	

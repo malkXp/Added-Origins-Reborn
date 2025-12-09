@@ -1,0 +1,39 @@
+{
+	"type": "origins:action_over_time",
+	"condition": {
+		"type": "origins:and",
+		"conditions": {
+			"type": "origins:block_in_radius",
+			"block_condition": {
+				"type": "origins:in_tag",
+				"tag": "added_origins:strong_iron"
+			},
+			"radius": 5,
+			"shape": "cube",
+			"comparison": ">=",
+			"compare_to": 1,
+			"inverted": true
+
+		}
+	},
+
+	"interval": 20,
+	"entity_action": {
+		"type": "origins:and",
+		"actions": [{
+			"type": "origins:delay",
+			"ticks": 0,
+			"action": {
+				"type": "origins:execute_command",
+				"command": "function added_origins:strongironhp2",
+				"permission_level": 4
+			}
+		}]
+	},
+	"hud_render": {
+		"should_render": false
+	},
+
+	"hidden": true
+
+}

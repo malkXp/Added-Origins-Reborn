@@ -1,0 +1,11 @@
+{
+	"type": "origins:prevent_item_use",
+	"item_condition": {
+		"type": "origins:ingredient",
+		"ingredient": {
+			"tag": "origins:shields"
+		}
+	},
+	"name": "Stiff Hands",
+	"description": "Your hands only being able to move in a certain way doesnt allow you to hold a shield up right."
+}

@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"origins:phasing",
+		"added_origins:burypunch",
+		"added_origins:slowblind",
+		"origins:phantomize",
+		"added_origins:slowblind2"
+	],
+	"icon": "minecraft:coarse_dirt",
+	"order": 2012,
+	"impact": 3
+}

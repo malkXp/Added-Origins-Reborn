@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"origins:swim_speed",
+		"origins:aqua_affinity",
+		"origins:aquatic",
+		"origins:water_vision",
+		"origins:water_breathing",
+		"added_origins:big_sized",
+		"added_origins:bigsize"
+	],
+	"icon": "minecraft:cooked_cod",
+	"order": 2,
+	"impact": 2
+}

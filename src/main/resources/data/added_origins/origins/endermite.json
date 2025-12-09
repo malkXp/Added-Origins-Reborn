@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"origins:throw_ender_pearl",
+		"origins:water_vulnerability",
+		"added_origins:silverfish_sized",
+		"added_origins:silverfishsize"
+	],
+	"icon": "minecraft:end_stone",
+	"order": 11,
+	"impact": 2
+}

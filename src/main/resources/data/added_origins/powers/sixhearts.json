@@ -1,0 +1,11 @@
+{
+	"type": "origins:attribute",
+	"modifier": {
+		"name": "Fragile health reduction",
+		"attribute": "minecraft:generic.max_health",
+		"value": -8.0,
+		"operation": "addition"
+	},
+	"name": "Lttle Man",
+	"description": "Being the little lad you are, you have significantly reduced health, with only 6 hearts, so be careful"
+}

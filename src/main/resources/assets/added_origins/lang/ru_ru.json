@@ -1,0 +1,350 @@
+{
+	"origin.added_origins.advanced_rat.name": "Крыса",
+	"origin.added_origins.advanced_rat.description": "Настоящий шеф-повар!",
+
+	"origin.added_origins.buried.name": "Мертвец",
+	"origin.added_origins.buried.description": "Мертвецы способны утаскивать других под землю.",
+
+	"origin.added_origins.cacti.name": "Первородный кактус",
+	"origin.added_origins.cacti.description": "Величественное растение, напоминающее кактус.",
+
+	"origin.added_origins.pumpkineer.name": "Господин-тыква",
+	"origin.added_origins.pumpkineer.description": "Ходят слухи, что господа-тыквы изначально были попыткой сделать пельмени с тыквой во время Хеллоуина.",
+
+	"origin.added_origins.dakor.name": "Дакор целитель",
+	"origin.added_origins.dakor.description": "Дакор целитель специализируется на исцелении на дистанции.",
+
+	"origin.added_origins.dakorm.name": "Дакор маг воды",
+	"origin.added_origins.dakorm.description": "Дакор маг воды специализируется на подводных сражениях.",
+
+	"origin.added_origins.dakorw.name": "Дакор воин",
+	"origin.added_origins.dakorw.description": "Дакор воин способен призывать магию ярости, позволяющую ему получить преимущества в сражении.",
+
+	"origin.added_origins.cactusorigin.name": "Кактус+",
+	"origin.added_origins.cactusorigin.description": "Настоящий кактус.",
+
+	"origin.added_origins.illusionist.name": "Иллюзионист",
+	"origin.added_origins.illusionist.description": "Мастер обмана и иллюзий.",
+
+	"origin.added_origins.antimancer.name": "Антимансер",
+	"origin.added_origins.antimancer.description": "Абсолютное оружие в битвах с монстрами.",
+
+	"origin.added_origins.lakor.name": "Лакор целитель",
+	"origin.added_origins.lakor.description": "Специализируется в исцелении на области вокруг себя. Любит покушать.",
+
+	"origin.added_origins.lakorw.name": "Лакор воин",
+	"origin.added_origins.lakorw.description": "Воин, прошедший суровую тренировку. Любит покушать.",
+
+	"origin.added_origins.caverner.name": "Вырезающий тыквы",
+	"origin.added_origins.caverner.description": "Эти полулюди способны славятся своими золотыми руками. Они могут не только добывать с их помощью руду, но и дотягиваются ими дальше других существ.",
+
+	"origin.added_origins.jumpscar.name": "Чудище",
+	"origin.added_origins.jumpscar.description": "Ужасное существо, свойства которого ещё не были изучены до конца.",
+
+	"origin.added_origins.cowsian.name": "Человек-корова",
+	"origin.added_origins.cowsian.description": "В то ли корова, то ли человек.",
+
+	"origin.added_origins.endermite.name": "Обитатель Края",
+	"origin.added_origins.endermite.description": "Раньше эти существа появлялись при использовании жемчуга Края, однако теперь они начали появляться повсюду.",
+
+	"origin.added_origins.giant.name": "Великан",
+	"origin.added_origins.giant.description": "Существо огромных размеров и силы.",
+
+	"origin.added_origins.megaladon.name": "Мегалодон",
+	"origin.added_origins.megaladon.description": "Эти существа обычно обитают на дне океанов и ранее считались исчезнувшими.",
+
+	"origin.added_origins.roachist.name": "Человек-таракан",
+	"origin.added_origins.roachist.description": "В то ли таракан, то ли человек.",
+
+	"origin.added_origins.necromancer.name": "Некромант",
+	"origin.added_origins.necromancer.description": "Некромант способен призывать мертвецов и заставлять их сражаться за себя.",
+
+	"origin.added_origins.silverfishian.name": "Чешуйница",
+	"origin.added_origins.silverfishian.description": "Живут в подземельях, пугают прохожих. Недавно начали селиться повсюду.",
+
+	"origin.added_origins.silverfishiash.name": "Великая чешуйница",
+	"origin.added_origins.silverfishiash.description": "Новый вид чешуйниц, обладающий ещё более малым весом.",
+
+	"origin.added_origins.xestrial.name": "Ксестриал",
+	"origin.added_origins.xestrial.description": "Этот вид выживал среди льдов и снега долгие годы.",
+
+	"origin.added_origins.zythl.name": "Зинтль",
+	"origin.added_origins.zythl.description": "Этот вид жил в океанах поколениями. Они только недавно начали осваивать сушу.",
+
+	"power.added_origins.anormalsizeshift.name": "Нормализация",
+	"power.added_origins.anormalsizeshift.description": "Возврат к обычному человеческому размеру.",
+
+	"power.added_origins.betterfoodfull.name": "Приятный вкус",
+	"power.added_origins.betterfoodfull.description": "Некоторые виды еды становятся лучше на вкус.",
+
+	"power.added_origins.bigsize.name": "Большие размеры",
+	"power.added_origins.bigsize.description": "Вы больше, чем обычный человек.",
+
+	"power.added_origins.big_sized.name": "Большие размеры",
+	"power.added_origins.big_sized.description": "Вы больше, чем обычный человек.",
+
+	"power.added_origins.blindnesshit.name": "Призыватель Тьмы",
+	"power.added_origins.blindnesshit.description": "Каждый удар заставляет врагов слепнуть.",
+
+	"power.added_origins.blindnesshit2.name": "Призыватель Тьмы",
+	"power.added_origins.blindnesshit2.description": "Каждый удар заставляет врагов слепнуть.",
+
+	"power.added_origins.burypunch.name": "Похоронный удар",
+	"power.added_origins.burypunch.description": "Вы можете погребать противников, отправляя их своим ударом на 4 блока под землю.",
+
+	"power.added_origins.cookeda.name": "a",
+	"power.added_origins.cookeda.description": "a",
+
+	"power.added_origins.cookedb.name": "a",
+	"power.added_origins.cookedb.description": "a",
+
+	"power.added_origins.cookedc.name": "a",
+	"power.added_origins.cookedc.description": "a",
+
+	"power.added_origins.cookedd.name": "a",
+	"power.added_origins.cookedd.description": "a",
+
+	"power.added_origins.cookede.name": "a",
+	"power.added_origins.cookede.description": "a",
+
+	"power.added_origins.cookedf.name": "a",
+	"power.added_origins.cookedf.description": "a",
+
+	"power.added_origins.cookedg.name": "a",
+	"power.added_origins.cookedg.description": "a",
+
+	"power.added_origins.cookedh.name": "a",
+	"power.added_origins.cookedh.description": "a",
+
+	"power.added_origins.cookedi.name": "a",
+	"power.added_origins.cookedi.description": "a",
+
+	"power.added_origins.cookedfoodbetter.name": "Чувство вкуса",
+	"power.added_origins.cookedfoodbetter.description": "Еда становится намного приятнее.",
+
+	"power.added_origins.cowlife.name": "Коровья жизнь",
+	"power.added_origins.cowlife.description": "Большинство монстров не атакуют Вас первыми.",
+
+	"power.added_origins.dakormage.name": "Выносливость",
+	"power.added_origins.dakormage.description": "Вы получаете дополнительные очки здоровья.",
+
+	"power.added_origins.dividefalldamage.name": "Волшебные кости",
+	"power.added_origins.dividefalldamage.description": "Вы получаете только половину урона от падений.",
+
+	"power.added_origins.drinkwaterwb.name": "Переносное море",
+	"power.added_origins.drinkwaterwb.description": "Пузырёк воды восстанавливает Ваш запас воздуха.",
+
+	"power.added_origins.fireshootm.name": "Магические трезубцы",
+	"power.added_origins.fireshootm.description": "Вы можете кинуть трезубец, нажав клавишу основного умения.",
+
+	"power.added_origins.foodgiver.name": "Пиршество",
+	"power.added_origins.foodgiver.description": "Вы можете повысить своё насыщение едой, предварительно нажав клавишу основного умения.",
+
+	"power.added_origins.friendsofpillagers.name": "Илладжер",
+	"power.added_origins.friendsofpillages.description": "Так как Вы илладжер, другие илладжеры не атакуют Вас.",
+
+	"power.added_origins.giantsize.name": "Гигантские размеры",
+	"power.added_origins.giantsize.description": "Вы великан.",
+
+	"power.added_origins.giantsizeshift.name": "Гигантизация",
+	"power.added_origins.giantsizeshift.description": "Вы становитесь размером с великана!",
+
+	"power.added_origins.healerabil.name": "Круг исцеления",
+	"power.added_origins.healerabil.description": "Вы можете исцелить себя и других существ вокруг себя, нажав клавишу основного умения.",
+
+	"power.added_origins.hugeapetite.name": "Большой аппетит",
+	"power.added_origins.hugeapetite.description": "Вы любите покушать.",
+
+	"power.added_origins.hydrophobic_legs.name": "Плохой пловец",
+	"power.added_origins.hydrophobic_legs.description": "Вы медленно плаваете.",
+
+	"power.added_origins.icysubstance.name": "Единство со льдом",
+	"power.added_origins.icysubstance.description": "Ваши способности усиливаются если вы стоите на льду.",
+
+	"power.added_origins.illusionerarmy.name": "Фонтан иллюзий",
+	"power.added_origins.illusionerarmy.description": "Вы можете призывать армию иллюзионистов, нажав кнопку вторичного умения.",
+
+	"power.added_origins.illusionerhealth.name": "Выносливость",
+	"power.added_origins.illusionerhealth.description": "У вас больше очков здоровья, чем обычно.",
+
+	"power.added_origins.jumpfreeze.name": "Снежное тело",
+	"power.added_origins.jumpfreeze.description": "Вы получаете урон при попытке согреть себя.",
+
+	"power.added_origins.jumpscare.name": "Кошмар",
+	"power.added_origins.jumpscare.description": "Вы можете перемещаться и вызывать слепоту у противников вокруг, нажав кнопку основного умения.",
+
+	"power.added_origins.lakordamagebuff.name": "Лакор воин",
+	"power.added_origins.lakordamagebuff.description": "Вы отлично сражаетесь.",
+
+	"power.added_origins.lakorkillerradius.name": "Дух кровожадности",
+	"power.added_origins.lakorkillerradius.description": "Вы можете наполнить атмосферу вокруг кровожадностью, нажав кнопку основного умения.",
+
+	"power.added_origins.lastchancefighter.name": "Природная защита",
+	"power.added_origins.lastchancefighter.description": "Вы получаете дополнительную защиту.",
+
+	"power.added_origins.lavahaterxes.name": "Восприимчивость к лаве",
+	"power.added_origins.lavahaterxes.description": "Прыжок в лаву всегда означает смерть для вас.",
+
+	"power.added_origins.lavakiller.name": "Воин лавы",
+	"power.added_origins.lavakiller.description": "Вы наносите больше урона находясь в лаве!",
+
+	"power.added_origins.less_hunger.name": "Скромный аппетит",
+	"power.added_origins.less_hunger.description": "Вы едите меньше, чем другие.",
+
+	"power.added_origins.levitationillusion.name": "Левитация",
+	"power.added_origins.levitationillusion.description": "Вы можете летать 5 секунд, нажав клавишу основного умения.",
+
+	"power.added_origins.lightningsummon.name": "Крест молний",
+	"power.added_origins.lightningsummon.description": "Вы можете призвать молнию во все 4 стороны вокруг себя.",
+
+	"power.added_origins.mobarmor.name": "Защита от монстров",
+	"power.added_origins.mobarmor.description": "Вы получаете меньше урона от монстров.",
+
+	"power.added_origins.modifyhealth.name": "Дополнительное здоровье",
+	"power.added_origins.modifyhealth.description": "Вы имеете в 2 раза больше очков здоровья, чем обычно.",
+
+	"power.added_origins.necrofalldd.name": "Слабость",
+	"power.added_origins.necrofalldd.description": "Вы получаете больше урона от всего остального.",
+
+	"power.added_origins.necrofiredd.name": "Слабость",
+	"power.added_origins.necrofiredd.description": "Вы получаете больше урона от всего остального.",
+
+	"power.added_origins.necrolava.name": "Слабость",
+	"power.added_origins.necrolava.description": "Вы получаете больше урона от всего остального.",
+
+	"power.added_origins.necromancerarrowi.name": "Защита от стрел",
+	"power.added_origins.necromancerarrowi.description": "Вы не получаете урон от стрел.",
+
+	"power.added_origins.necromancerdd.name": "Слабость",
+	"power.added_origins.necromancerdd.description": "Вы получаете больше урона от всего остального.",
+
+	"power.added_origins.necromancermobi.name": "Защита от монстров",
+	"power.added_origins.necromancermobi.description": "Вы не получаете урона от монстров.",
+
+	"power.added_origins.necromancersummons.name": "Призыв скелета",
+	"power.added_origins.necromancersummons.description": "Вы можете призвать усиленного скелета",
+
+	"power.added_origins.necromancersummonsz.name": "Призыв зомби",
+	"power.added_origins.necromancersummonsz.description": "Вы можете призвать усиленного зомби.",
+
+	"power.added_origins.necroonfiredd.name": "Слабость",
+	"power.added_origins.necroonfiredd.description": "Вы получаете больше урона от всего остального.",
+
+	"power.added_origins.netherpunch.name": "Удар Незера",
+	"power.added_origins.netherpunch.description": "Вы можете с помощью удара отправлять других в Незер.",
+
+	"power.added_origins.nightlight.name": "Ночник",
+	"power.added_origins.nightlight.description": "Подземелья кажутся светлее.",
+
+	"power.added_origins.nohitdamage.name": "Слабые кулачки",
+	"power.added_origins.nohitdamage.description": "Вы никому не можете нанести урон без соответствующих инструментов.",
+
+	"power.added_origins.noregengoharvest.name": "Жнец",
+	"power.added_origins.noregengoharvest.description": "Вы должны забирать души чтобы восстанавливать здоровье. Еда больше не исцеляет Вас.",
+
+	"power.added_origins.nosleeppumpkin.name": "Беспокойство",
+	"power.added_origins.nosleeppumpkin.description": "Вы не можете спать, жатва душ должна продолжаться...",
+	"power.added_origins.nosleeppumpkin.message": "Вам нет покоя, вы должны собирать души...",
+
+	"power.added_origins.not_so_fine.name": "Аквафобия",
+	"power.added_origins.not_so_fine.description": "Вы боитесь воды.",
+
+	"power.added_origins.okcombat.name": "Слабая подготовка",
+	"power.added_origins.okcombat.description": "Воины Дакор менее подготовлены к бою, чем воины Лакор.",
+
+	"power.added_origins.phasingii.name": "Улучшенный перенос",
+	"power.added_origins.phasingii.description": "Вы переноситесь через большее количество блоков!",
+
+	"power.added_origins.poisonimmune.name": "Защита от магии",
+	"power.added_origins.poisonimmune.description": "Вы игнорируете магический урон.",
+
+	"power.added_origins.poisonimmuneagain.name": "Защита от иссушения",
+	"power.added_origins.poisonimmuneagain.description": "Вы игнорируете иссушение.",
+
+	"power.added_origins.projarrsiashsho.name": "Огненное дыхание",
+	"power.added_origins.projarrsiashsho.description": "Вы можете выдохнуть пламя, нажав кнопку вторичного умения.",
+
+	"power.added_origins.projectilehurts.name": "Лёгкая мешень",
+	"power.added_origins.projectilehurts.description": "Вы получаете в 2 раза больше урона от снарядов.",
+
+	"power.added_origins.pumpkinfire.name": "Боязнь Солнца",
+	"power.added_origins.pumpkinfire.description": "Вы горите под Солнцем.",
+
+	"power.added_origins.ragemod.name": "Ярость",
+	"power.added_origins.ragemod.description": "Вы можете усилить свою атаку, нажав кнопку основного умения.",
+
+	"power.added_origins.rainydays.name": "Да будет дождь!",
+	"power.added_origins.rainydays.description": "Вы можете призывать дождь, нажав кнопку вторичного умения.",
+
+	"power.added_origins.roach_sized.name": "Размером с букашку",
+	"power.added_origins.roach_sized.description": "Ваши размеры весьма скромны.",
+
+	"power.added_origins.rooted.name": "Пустить корни",
+	"power.added_origins.rooted.description": "Вы можете поймать в ловушку существ вокруг и исцелить себя, нажав кнопку основного умения.",
+
+	"power.added_origins.silverfish_sized.name": "Размером с чешуйницу",
+	"power.added_origins.silverfish_sized.description": "Вы малы, очень малы.",
+
+	"power.added_origins.silverfishiash_sized.name": "Размером с чешуйницу",
+	"power.added_origins.silverfishiash_sized.description": "Вы малы, очень малы.",
+
+	"power.added_origins.slowaat.name": "Тяжёлые ноги",
+	"power.added_origins.slowaat.description": "Вы передвигаетесь очень медленно.",
+
+	"power.added_origins.slowblind.name": "Глаза крота",
+	"power.added_origins.slowblind.description": "Солнце слепит Вас.",
+
+	"power.added_origins.slowblind2.name": "Глаза крота",
+	"power.added_origins.slowblind2.description": "Солнце слепит Вас.",
+
+	"power.added_origins.soulharvestregen.name": "Жатва душ",
+	"power.added_origins.soulharvestregen.description": "Сбор душ восстанавливает Ваше здоровье.",
+
+	"power.added_origins.speedaat.name": "Налегке",
+	"power.added_origins.speedaat.description": "Вы движетесь быстрее.",
+
+	"power.added_origins.spookyenvironment.name": "Жуткая атмосфера",
+	"power.added_origins.spookyenvironment.description": "Вы можете призывать своих друзей-тыкв, нажав клавишу основного умения.",
+
+	"power.added_origins.super_hydrophobic_legs.name": "Сложности с плаванием",
+	"power.added_origins.super_hydrophobic_legs.description": "Вы движетесь медленнее в воде.",
+
+	"power.added_origins.super_strength.name": "Супер сила",
+	"power.added_origins.super_strength.description": "Вы сильны.",
+
+	"power.added_origins.thornsc.name": "Шипы",
+	"power.added_origins.thornsc.description": "Ваши шипы возвращают урон атакующим.",
+
+	"power.added_origins.triplemobdamage.name": "Гроза монстров",
+	"power.added_origins.triplemobdamage.description": "Вы наносите в 3 раза больше урона монстрам.",
+
+	"power.added_origins.triplepillagerdamage.name": "Охотник на охотников",
+	"power.added_origins.triplepillagerdamage.description": "Вы наносите в 5 раз больше урона илладжерам.",
+
+	"power.added_origins.villagerhater.name": "Деревенские рейдеры",
+	"power.added_origins.villagerhater.description": "Ты совершаешь набег на деревню так, что все тебя ненавидят...",
+
+	"power.added_origins.triplespiderdamage.name": "Истребитель всего многоногого",
+	"power.added_origins.triplespiderdamage.description": "Вы наносите в 3 раза больше урона противникам с большим количеством конечностей.",
+
+	"power.added_origins.water_breath.name": "Трахеи вместо лёгких",
+	"power.added_origins.water_breath.description": "Вы можете задерживать дыхание под водой на весьма скромное время.",
+
+	"power.added_origins.waterbreathall.name": "Амфибия",
+	"power.added_origins.waterbreathall.description": "Вы можете дышать и в воде, и на суше.",
+
+	"power.added_origins.weakhealrange.name": "Удалённое исцеление",
+	"power.added_origins.weakhealrange.description": "Вы можете исцелить группу существ, нажав кнопку основного умения.",
+
+	"power.added_origins.xestriallaunch.name": "Бросок ксестриала",
+	"power.added_origins.xestriallaunch.description": "Вы можете прыгнуть далеко вперёд.",
+
+	"power.added_origins.zythlheal.name": "Исцеление зинтля",
+	"power.added_origins.zythlheal.description": "Вы можете исцелить себя, нажав кновку вторичного умения.",
+
+	"power.added_origins.zythlpower.name": "Рывок зинтля",
+	"power.added_origins.zythlpower.description": "Вы можете прыгнуть далеко вперёд.",
+
+	"power.added_origins.forestspawn.name": "Естественная среда обитания",
+	"power.added_origins.forestspawn.description": "Самый темный лес зовет тебя по имени."
+}

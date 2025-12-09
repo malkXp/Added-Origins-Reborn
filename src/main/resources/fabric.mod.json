@@ -1,0 +1,43 @@
+{
+	"schemaVersion": 1,
+	"id": "added_origins",
+	"version": "${version}",
+	"name": "Added Origins Reborn",
+	"description": "A mod designed around adding new and fun origins",
+	"authors": [
+		"MalkXP",
+		"HeatUp__",
+		"Czarnick14",
+		"BatEnderGleb"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/added_origins/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.malkxp.added_origins.AddedOriginsReborn"
+		],
+		"client": [
+			"net.malkxp.added_origins.AddedOriginsRebornClient"
+		],
+		"fabric-datagen": [
+			"net.malkxp.added_origins.AddedOriginsRebornDataGenerator"
+		]
+	},
+	"mixins": [
+		"added_origins.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.1",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

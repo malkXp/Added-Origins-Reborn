@@ -1,0 +1,27 @@
+{
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 0,
+    "max_stacks": 2,
+    "duration_per_stack": 20,
+    "effect": 
+	{
+      "effect": "minecraft:slowness",
+		"duration": 100,
+		"amplifier": 1,
+		"is_ambient": true,
+		"show_particles": false,
+		"show_icon": true
+    },
+    "condition": 
+	{
+		"type": "origins:biome",
+		"condition": 
+		{
+			"type": "origins:temperature",
+			"comparison": "<",
+			"compare_to": 0.15
+		}
+	},
+    "name": "Cold Blooded",
+    "description": "You get slowness 2 in cold biomes."
+}

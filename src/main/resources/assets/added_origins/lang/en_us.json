@@ -1,0 +1,365 @@
+{
+	"origin.added_origins.advanced_rat.name": "Rat",
+	"origin.added_origins.advanced_rat.description": "The rat is a great cook!",
+
+	"origin.added_origins.buried.name": "Buried",
+	"origin.added_origins.buried.description": "The Buried is a creature that was once punished to be buried alive. After many decades, it came back to seek revenge.",
+
+	"origin.added_origins.cacti.name": "Cacti",
+	"origin.added_origins.cacti.description": "You are a cactus.",
+
+	"origin.added_origins.pumpkineer.name": "Pumpkineer",
+	"origin.added_origins.pumpkineer.description": "The Pumpkineer is said to be a failed attempt at creating a new kind of golem. Instead, it now feeds off of the souls it was meant to protect.",
+
+	"origin.added_origins.dakor.name": "Dakor Healer",
+	"origin.added_origins.dakor.description": "The Dakor Healer specializes in ranged healing.",
+
+	"origin.added_origins.dakorm.name": "Dakor Water Mage",
+	"origin.added_origins.dakorm.description": "The Dakor Water Mage is an expert in submariner combat.",
+
+	"origin.added_origins.dakorw.name": "Dakor Warrior",
+	"origin.added_origins.dakorw.description": "The Dakor Warrior is capable of channeling Rage Magic, which enhances their combat capabilities for a short period of time.",
+
+	"origin.added_origins.cactusorigin.name": "Cacti+",
+	"origin.added_origins.cactusorigin.description": "You are a better cactus.",
+
+	"origin.added_origins.illusionist.name": "Illusionist",
+	"origin.added_origins.illusionist.description": "The Illusionist is proficient with Illusion Magic, and is capable of confusing their enemies quite easily.",
+
+	"origin.added_origins.antimancer.name": "Antimancer",
+	"origin.added_origins.antimancer.description": "The Antimancer is a mob-slaying expert.",
+
+	"origin.added_origins.lakor.name": "Lakor Healer",
+	"origin.added_origins.lakor.description": "These Lakor specialize in radial Healing Magic.",
+
+	"origin.added_origins.lakorw.name": "Lakor Warrior",
+	"origin.added_origins.lakorw.description": "The Lakor Warrior is skilled in combat, and has years of intensive training experience.",
+
+	"origin.added_origins.caverner.name": "Caverner",
+	"origin.added_origins.caverner.description": "This human-like origin can mine blocks from farther away with their hands. They are the ultimate cave expert",
+
+	"origin.added_origins.jumpscar.name": "Jumpscare",
+	"origin.added_origins.jumpscar.description": "Jumpscare is simply a colloquial name for a creature that has yet to be accurately identified. It has strong eyes and enjoys blinding others.",
+
+	"origin.added_origins.cowsian.name": "Cowsian",
+	"origin.added_origins.cowsian.description": "You are practically a cow.",
+
+	"origin.added_origins.endermite.name": "Endermite",
+	"origin.added_origins.endermite.description": "The endermite is usually spawned from the usage of an ender pearl, but have now been seen spawning naturally.",
+
+	"origin.added_origins.giant.name": "Giant",
+	"origin.added_origins.giant.description": "A creature of immense size and power.",
+
+	"origin.added_origins.megaladon.name": "Megalodon",
+	"origin.added_origins.megaladon.description": "These creatures often dwell in the deepest parts of the ocean, and were thought to be extinct.",
+
+	"origin.added_origins.roachist.name": "Roachist",
+	"origin.added_origins.roachist.description": "You are essentially a roach.",
+
+	"origin.added_origins.necromancer.name": "Necromancer",
+	"origin.added_origins.necromancer.description": "The Necromancer summons entities of the dead to fight for them.",
+
+	"origin.added_origins.silverfishian.name": "Silverfishian",
+	"origin.added_origins.silverfishian.description": "The Silverfish typically dwell in dungeons, but can sometimes be found living in other kinds of ruins.",
+
+	"origin.added_origins.silverfishiash.name": "Silverfishiash",
+	"origin.added_origins.silverfishiash.description": "The Silverfishiash are an evolved species of Silverfish.",
+
+	"origin.added_origins.xestrial.name": "Xestrial",
+	"origin.added_origins.xestrial.description": "This mythical creature has lived in cold and icy places for thousands of years. A cold presence always follows",
+
+	"origin.added_origins.zythl.name": "Zythl",
+	"origin.added_origins.zythl.description": "These creatures have just recently discovered the surface. For the past thousands of years, they have been dwelling underground.",
+
+	"power.added_origins.anormalsizeshift.name": "Normal Size Shift",
+	"power.added_origins.anormalsizeshift.description": "Switch to the size of a regular human.",
+
+	"power.added_origins.betterfoodfull.name": "Better Taste",
+	"power.added_origins.betterfoodfull.description": "Certain foods taste better.",
+
+	"power.added_origins.bigsize.name": "Big Sized",
+	"power.added_origins.bigsize.description": "You are bigger than the average human.",
+
+	"power.added_origins.big_sized.name": "Big Sized",
+	"power.added_origins.big_sized.description": "You are bigger than the average human.",
+
+	"power.added_origins.pumpkineer/blindnesshit.name": "Summoner of Darkness",
+	"power.added_origins.pumpkineer/blindnesshit.description": "You blind anything that you hit.",
+
+	"power.added_origins.pumpkineer/blindnesshit2.name": "Summoner of Darkness",
+	"power.added_origins.pumpkineer/blindnesshit2.description": "You blind anything that you hit.",
+
+	"power.added_origins.burypunch.name": "Bury Punch",
+	"power.added_origins.burypunch.description": "You bury things in the ground 4 blocks deep when you hit them.",
+
+	"power.added_origins.cookeda.name": "a",
+	"power.added_origins.cookeda.description": "a",
+
+	"power.added_origins.cookedb.name": "a",
+	"power.added_origins.cookedb.description": "a",
+
+	"power.added_origins.cookedc.name": "a",
+	"power.added_origins.cookedc.description": "a",
+
+	"power.added_origins.cookedd.name": "a",
+	"power.added_origins.cookedd.description": "a",
+
+	"power.added_origins.cookede.name": "a",
+	"power.added_origins.cookede.description": "a",
+
+	"power.added_origins.cookedf.name": "a",
+	"power.added_origins.cookedf.description": "a",
+
+	"power.added_origins.cookedg.name": "a",
+	"power.added_origins.cookedg.description": "a",
+
+	"power.added_origins.cookedh.name": "a",
+	"power.added_origins.cookedh.description": "a",
+
+	"power.added_origins.cookedi.name": "a",
+	"power.added_origins.cookedi.description": "a",
+
+	"power.added_origins.cookedfoodbetter.name": "Sense of Taste",
+	"power.added_origins.cookedfoodbetter.description": "Food becomes more satiating.",
+
+	"power.added_origins.cowlife.name": "Cow Life",
+	"power.added_origins.cowlife.description": "Since you are a cow, most mobs will not attack you.",
+
+	"power.added_origins.dakormage.name": "Resistant",
+	"power.added_origins.dakormage.description": "You have additional health.",
+
+	"power.added_origins.dividefalldamage.name": "Fall Damage Magic",
+	"power.added_origins.dividefalldamage.description": "You take half as much fall damage as you used to!",
+
+	"power.added_origins.drinkwaterwb.name": "Water Drinking",
+	"power.added_origins.drinkwaterwb.description": "Water restores your air capacity.",
+
+	"power.added_origins.fireshootm.name": "Trident Magic",
+	"power.added_origins.fireshootm.description": "You can launch tridents using you Primary Ability key.",
+
+	"power.added_origins.foodgiver.name": "Food Boost",
+	"power.added_origins.foodgiver.description": "Food becomes more satiating for a period of time when pressing the Primary Ability key.",
+
+	"power.added_origins.friendsofpillagers.name": "Illager Friends",
+	"power.added_origins.friendsofpillages.description": "You are part of the Illagers, thus Illager types do not attack you.",
+
+	"power.added_origins.giant/giant_sized.name": "Giant Sized",
+	"power.added_origins.giant/giant_sized.description": "You are a giant.",
+
+	"power.added_origins.giantsizeshift.name": "Giant Size Shift",
+	"power.added_origins.giantsizeshift.description": "You can become the size of a giant!",
+
+	"power.added_origins.healerabil.name": "Healing Radius",
+	"power.added_origins.healerabil.description": "You can heal yourself and other creatures around you by pressing your Primary Ability key.",
+
+	"power.added_origins.hugeapetite.name": "Huge Appetite",
+	"power.added_origins.hugeapetite.description": "You eat more than others by a considerable amount.",
+
+	"power.added_origins.hydrophobic_legs.name": "Incompetent Swimmer",
+	"power.added_origins.hydrophobic_legs.description": "You are slower in water.",
+
+	"power.added_origins.xestrial/icysubstance.name": "Chilling Potential",
+	"power.added_origins.xestrial/icysubstance.description": "Your powers increase while within a cold biome",
+
+	"power.added_origins.illusionerarmy.name": "Illusioner Minions",
+	"power.added_origins.illusionerarmy.description": "You can summon an army of Illusioners using your Secondary Ability key.",
+
+	"power.added_origins.illusionerhealth.name": "Resistant",
+	"power.added_origins.illusionerhealth.description": "You have more natural health.",
+
+	"power.added_origins.jumpscar/jumpfreeze.name": "Frostbite",
+	"power.added_origins.jumpscar/jumpfreeze.description": "Your skin is extremely fragile to cold environments",
+
+	"power.added_origins.jumpscar/jumpscare.name": "Jumpscare",
+	"power.added_origins.jumpscar/jumpscare.description": "You can dash and inflict blindness at a radius around you using your Primary Ability key.",
+
+	"power.added_origins.jumpscar/eversight.name": "Eversight",
+	"power.added_origins.jumpscar/eversight.description": "Your eyes are extremely well developed. Your eyes are resistant to all types of blindness while also having good vision in the dark.",
+
+	"power.added_origins.lakordamagebuff.name": "Lakor Warrior",
+	"power.added_origins.lakordamagebuff.description": "As a warrior you are naturally better at combat.",
+
+	"power.added_origins.lakorkillerradius.name": "Killer Radius",
+	"power.added_origins.lakorkillerradius.description": "You can summon a Killing Radius cloud by pressing your Primary Ability key.",
+
+	"power.added_origins.lastchancefighter.name": "Natural Defense",
+	"power.added_origins.lastchancefighter.description": "You have additional resistance.",
+
+	"power.added_origins.xestrial/lavahaterxes.name": "Fire Susceptible",
+	"power.added_origins.xestrial/lavahaterxes.description": "Having a chance to escape fire was fine. Now it kills you instantly.",
+
+	"power.added_origins.lavakiller.name": "Lava Warrior",
+	"power.added_origins.lavakiller.description": "You do extra damage while submerged in lava!",
+
+	"power.added_origins.less_hunger.name": "Small Appetite",
+	"power.added_origins.less_hunger.description": "You eat less than others.",
+
+	"power.added_origins.levitationillusion.name": "Levitation",
+	"power.added_origins.levitationillusion.description": "You can fly for 5 seconds by pressing your Primary Ability key.",
+
+	"power.added_origins.lightningsummon.name": "Lightning Ring",
+	"power.added_origins.lightningsummon.description": "You can summon lightning in all four directions around you.",
+
+	"power.added_origins.pumpkineer/mobarmor.name": "Mob Resistance",
+	"power.added_origins.pumpkineer/mobarmor.description": "You take less damage from mobs.",
+
+	"power.added_origins.modifyhealth.name": "Additional Health",
+	"power.added_origins.modifyhealth.description": "You have 2 times max health.",
+
+	"power.added_origins.necrofalldd.name": "Diseased",
+	"power.added_origins.necrofalldd.description": "You take additional damage from everything else.",
+
+	"power.added_origins.necrofiredd.name": "Diseased",
+	"power.added_origins.necrofiredd.description": "You take additional damage from everything else.",
+
+	"power.added_origins.necrolava.name": "Diseased",
+	"power.added_origins.necrolava.description": "You take additional damage from everything else.",
+
+	"power.added_origins.necromancerarrowi.name": "Arrow Immunity",
+	"power.added_origins.necromancerarrowi.description": "You are immune to arrow damage.",
+
+	"power.added_origins.necromancerdd.name": "Diseased",
+	"power.added_origins.necromancerdd.description": "You take additional damage from everything else.",
+
+	"power.added_origins.necromancermobi.name": "Mob Mentality",
+	"power.added_origins.necromancermobi.description": "You no longer receive damage from mobs.",
+
+	"power.added_origins.necromancersummons.name": "Summon Skeleton",
+	"power.added_origins.necromancersummons.description": "You can summon a buffed skeleton to fight for you.",
+
+	"power.added_origins.necromancersummonsz.name": "Summon Zombie",
+	"power.added_origins.necromancersummonsz.description": "You can summon a buffed zombie to fight for you.",
+
+	"power.added_origins.necroonfiredd.name": "Diseased",
+	"power.added_origins.necroonfiredd.description": "You take additional damage from everything else.",
+
+	"power.added_origins.jumpscar/netherpunch.name": "Nether Punch",
+	"power.added_origins.jumpscar/netherpunch.description": "You can punch people into the Nether.",
+
+	"power.added_origins.nightlight.name": "Night Light",
+	"power.added_origins.nightlight.description": "Caves appear brighter than normal.",
+
+	"power.added_origins.nohitdamage.name": "Weak Fists",
+	"power.added_origins.nohitdamage.description": "You are unable to damage anything without the use of a sword.",
+
+	"power.added_origins.pumpkineer/noregengoharvest.name": "Soul Bound",
+	"power.added_origins.pumpkineer/noregengoharvest.description": "You cannot naturally regenerate health anymore, instead, you are bound to take the life from souls.",
+
+	"power.added_origins.pumpkineer/nosleeppumpkin.name": "Relentless Unrest",
+	"power.added_origins.pumpkineer/nosleeppumpkin.description": "You are unable to sleep since the souls have not been harvested...",
+	"power.added_origins.pumpkineer/nosleeppumpkin.message": "You cannot sleep, You have harvesting to do...",
+
+	"power.added_origins.not_so_fine.name": "Hydrophobic",
+	"power.added_origins.not_so_fine.description": "You have a fear of water.",
+
+	"power.added_origins.okcombat.name": "Untrained",
+	"power.added_origins.okcombat.description": "Dakor Warriors are less trained in combat than their Lakor counterparts.",
+
+	"power.added_origins.phasingii.name": "Better Phasing",
+	"power.added_origins.phasingii.description": "You can phase through even more blocks!",
+
+	"power.added_origins.poisonimmune.name": "Magic Immunity",
+	"power.added_origins.poisonimmune.description": "You are immune to magic damage.",
+
+	"power.added_origins.poisonimmuneagain.name": "Wither Immunity",
+	"power.added_origins.poisonimmuneagain.description": "Wither damage does not affect you.",
+
+	"power.added_origins.projarrsiashsho.name": "Flame Breath",
+	"power.added_origins.projarrsiashsho.description": "You can shoot fire using your Secondary Ability key.",
+
+	"power.added_origins.projectilehurts.name": "Easy Target",
+	"power.added_origins.projectilehurts.description": "You take twice the amount of damage from projectiles.",
+
+	"power.added_origins.pumpkinfire.name": "Scared of the Sun",
+	"power.added_origins.pumpkinfire.description": "You burn in daylight.",
+
+	"power.added_origins.ragemod.name": "Rage Mode",
+	"power.added_origins.ragemod.description": "Your attack damage increases significantly by pressing your Primary Ability key.",
+
+	"power.added_origins.rainydays.name": "Make it Rain",
+	"power.added_origins.rainydays.description": "With your Secondary Ability key, you can make it rain.",
+
+	"power.added_origins.roach_sized.name": "Roach Sized",
+	"power.added_origins.roach_sized.description": "You are the size of a roach.",
+
+	"power.added_origins.rooted.name": "Rooting",
+	"power.added_origins.rooted.description": "You are able to trap creatures in a radial vicinity while healing using your Primary Ability key.",
+
+	"power.added_origins.silverfish_sized.name": "Silverfish Sized",
+	"power.added_origins.silverfish_sized.description": "You are the size of a silverfish.",
+
+	"power.added_origins.silverfishiash_sized.name": "Silverfish Sized",
+	"power.added_origins.silverfishiash_sized.description": "You are the size of a silverfish.",
+
+	"power.added_origins.slowaat.name": "Heavy Footed",
+	"power.added_origins.slowaat.description": "You are very slow.",
+
+	"power.added_origins.slowblind.name": "Mole Eyes",
+	"power.added_origins.slowblind.description": "The sun blinds your sensitive subterranean eyes.",
+
+	"power.added_origins.slowblind2.name": "Mole Eyes",
+	"power.added_origins.slowblind2.description": "The sun blinds your sensitive subterranean eyes.",
+
+	"power.added_origins.pumpkineer/soulharvestregen.name": "Soul Harvesting",
+	"power.added_origins.pumpkineer/soulharvestregen.description": "Absorbing souls replenishes your health.",
+
+	"power.added_origins.xestrial/speedaat.name": "Arctic Sprint",
+	"power.added_origins.xestrial/speedaat.description": "Your body uses energy from the Arctic in order to quicken itself.",
+
+	"power.added_origins.xestrial/snowaura.name": "Chilling Presence",
+	"power.added_origins.xestrial/snowaura.description": "You are always surrounded by snow",
+
+	"power.added_origins.xestrial/freezeimmunity.name": "Frost Immunity",
+	"power.added_origins.xestrial/freezeimmunity.description": "You cannot freeze, nor do you sink in snow.",
+
+	"power.added_origins.xestrial/resistanceimmunity.name": "Defective Potions",
+	"power.added_origins.xestrial/resistanceimmunity.description": "Fire Resistance doesn't affect you, leaving you vulnerable to heat",
+
+	"power.added_origins.spookyenvironment.name": "Spooky Environment",
+	"power.added_origins.spookyenvironment.description": "You can summon pumpkin mobs to fight for you using your Primary Ability key.",
+
+	"power.added_origins.giant/super_hydrophobic_legs.name": "Nearly Drowned",
+	"power.added_origins.giant/super_hydrophobic_legs.description": "You are extremely slow in water.",
+
+	"power.added_origins.giant/super_strength.name": "Super Strength",
+	"power.added_origins.giant/super_strength.description": "You are stronger than normal.",
+
+	"power.added_origins.giant/lack_of_value.name": "Small Portions",
+	"power.added_origins.giant/lack_of_value.description": "Food that you eat doesn't benefit you much anymore.",
+
+	"power.added_origins.thornsc.name": "Thorns",
+	"power.added_origins.thornsc.description": "Your thorns redirect damage from your attackers.",
+
+	"power.added_origins.triplemobdamage.name": "Mob Incinerator",
+	"power.added_origins.triplemobdamage.description": "You deal 3 times additional damage to mobs.",
+
+	"power.added_origins.triplepillagerdamage.name": "Illager Punisher",
+	"power.added_origins.triplepillagerdamage.description": "You deal 5 times additional damage to Illagers.",
+
+	"power.added_origins.triplespiderdamage.name": "Pest Control",
+	"power.added_origins.triplespiderdamage.description": "You deal 3 times additional damage to arthropods.",
+
+	"power.added_origins.villagerhater.name": "Villager Raiders",
+	"power.added_origins.villagerhater.description": "You Raid the village so much that everyone there hates you...",
+
+	"power.added_origins.water_breath.name": "Roach Lungs",
+	"power.added_origins.water_breath.description": "You can breathe underwater for a short period of time.",
+
+	"power.added_origins.waterbreathall.name": "Amphibious",
+	"power.added_origins.waterbreathall.description": "You can breathe on land and while submerged.",
+
+	"power.added_origins.weakhealrange.name": "Ranged Heal",
+	"power.added_origins.weakhealrange.description": "You can heal a group of entities by pressing your Primary Ability key.",
+
+	"power.added_origins.xestrial/xestriallaunch.name": "Glacial Force",
+	"power.added_origins.xestrial/xestriallaunch.description": "You have the ability to launch yourself anywhere",
+
+	"power.added_origins.zythlheal.name": "Zythl Heal",
+	"power.added_origins.zythlheal.description": "You can now heal yourself using your Secondary Ability key.",
+
+	"power.added_origins.zythlpower.name": "Zythl Dash",
+	"power.added_origins.zythlpower.description": "You can now dash forward.",
+
+	"power.added_origins.forestspawn.name": "Natural Habitat",
+	"power.added_origins.forestspawn.description": "The Darkest Forests call your name."
+}

@@ -1,0 +1,15 @@
+{
+  "type": "origins:modify_damage_taken",
+  "modifier": {
+	"name": "Origin modifier",
+	"value": 2,
+	"operation": "multiply_base"
+  },
+  "damage_condition": {
+	"type": "origins:name",
+	"name": "inFire"
+  },
+	"name": "Bad health effects",
+	"description": "You take more damage to everything else",
+	"hidden": true
+}

@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"added_origins:pumpkineer/blindnesshit",
+		"added_origins:pumpkineer/blindnesshit2",
+		"added_origins:pumpkineer/mobarmor",
+		"added_origins:pumpkineer/nosleeppumpkin",
+		"added_origins:pumpkineer/noregengoharvest",
+		"added_origins:pumpkineer/soulharvestregen",
+		"added_origins:necrofiredd"
+	],
+	"icon": "minecraft:jack_o_lantern",
+	"order": 2021,
+	"impact": 3
+}

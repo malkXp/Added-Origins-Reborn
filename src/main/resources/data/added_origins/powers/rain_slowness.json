@@ -1,0 +1,18 @@
+{
+	"type": "origins:action_over_time",
+	"entity_action": {
+		"type": "origins:apply_effect",
+		"effect": {
+			"effect": "minecraft:slowness",
+			"show_particles": false,
+			"duration": 120,
+			"amplifier": 2
+		}
+	},
+	"interval": 80,
+	"condition": {
+		"type": "origins:in_rain"
+	},
+	"name": "Rain Hate",
+	"description": "Because of how clunky you are, in the rain you slowed down even more by the water on your body"
+}

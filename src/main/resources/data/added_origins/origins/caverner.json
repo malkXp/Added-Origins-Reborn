@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"origins:extra_reach",
+		"origins:strong_arms",
+		"origins:strong_arms_break_speed",
+		"origins:more_exhaustion",
+		"added_origins:hydrophobic_legs",
+		"added_origins:nightlight"
+	],
+	"icon": "minecraft:player_head",
+	"order": 15,
+	"impact": 1
+}

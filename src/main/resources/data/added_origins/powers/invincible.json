@@ -1,0 +1,30 @@
+{
+	"type": "origins:active_self",
+	"name": "Ball up!",
+	"description": "By Activating your PRIMARY ABILITY, you can ball up and defend yourself from any oncoming damage!.",
+	"entity_action": {
+		"type": "origins:apply_effect",
+		"effects": [{
+				"effect": "minecraft:resistance",
+				"duration": 100,
+				"amplifier": 1000
+			},
+			{
+				"effect": "minecraft:slowness",
+				"duration": 100,
+				"amplifier": 4
+			}
+		],
+
+		"key": {
+			"key": "key.origins.primary_active",
+			"continuous": false
+		},
+		"cooldown": 600,
+		"hud_render": {
+			"should_render": true,
+			"sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_02.png",
+			"bar_index": 0
+		}
+	}
+}

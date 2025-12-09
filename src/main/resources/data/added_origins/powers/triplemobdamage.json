@@ -1,0 +1,12 @@
+{
+  "type": "origins:modify_damage_dealt",
+  "modifier": {
+	"name": "Origin modifier",
+	"operation": "multiply_base",
+	"value": 3
+  },
+  "target_condition": {
+	"type": "origins:entity_group",
+	"group": "undead"
+ }
+}

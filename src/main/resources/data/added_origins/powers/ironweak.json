@@ -1,0 +1,29 @@
+{
+	"name": "Ore?",
+	"description": "Once near a faint source of iron your body alerts you.",
+	"type": "origins:stacking_status_effect",
+	"min_stacks": 0,
+	"max_stacks": 10,
+	"duration_per_stack": 40,
+	"effects": [{
+			"effect": "minecraft:night_vision",
+			"is_ambient": true,
+			"show_particles": false,
+			"show_icon": false,
+			"amplifier": 1
+		}
+
+	],
+	"condition": {
+		"type": "origins:block_in_radius",
+		"block_condition": {
+			"type": "origins:in_tag",
+			"tag": "added_origins:weak_iron"
+		},
+		"radius": 10,
+		"shape": "cube",
+		"comparison": ">=",
+		"compare_to": 1
+	}
+
+}

@@ -1,0 +1,18 @@
+{
+	"type": "origins:active_self",
+	"entity_action": {
+		"type": "origins:execute_command",
+    			 "command": "scale set 2.10 @s",
+    			 "permission_level": 4
+	},
+	"cooldown": 700,
+	"hud_render": {
+		"should_render": true,
+		"bar_index": 4
+	},
+	"condition": {
+	     "type": "origins:power_active",
+	     "power": "origins:phantomize"
+	},
+	"key": "secondary"
+}

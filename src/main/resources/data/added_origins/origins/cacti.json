@@ -1,0 +1,19 @@
+{
+	"powers": [
+		"added_origins:nohitdamage",
+		"added_origins:necromancerdd",
+		"added_origins:necrofalldd",
+		"added_origins:necrofiredd",
+		"added_origins:necrolava",
+		"added_origins:slowaat",
+		"added_origins:reset"
+	],
+	"icon": "minecraft:cactus",
+	"order": 2022,
+	"impact": 3,
+	"upgrades": {
+        "condition": "minecraft:end/kill_dragon",
+        "origin": "added_origins:cactusorigin",
+        "announcement": "You have achieved a great goal and now are able to destroy many things in your path..."
+    }
+}

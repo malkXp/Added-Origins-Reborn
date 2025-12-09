@@ -1,0 +1,21 @@
+{
+  "type": "origins:multiple",
+
+  "immunity": {
+    "type": "origins:effect_immunity",
+    "effects": [
+      "minecraft:blindness",
+      "minecraft:darkness"
+    ]
+  },
+
+  "vision": {
+    "type": "origins:toggle_night_vision",
+    "strength": 1.0,
+    "active_by_default": true,
+    "key": {
+      "key": "key.origins.secondary_active",
+      "continuous": false
+    }
+  }
+}

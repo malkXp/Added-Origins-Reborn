@@ -1,0 +1,7 @@
+{
+  "type": "origins:particle",
+  "particle": "added_origins:xestrial_snow",
+  "frequency": 4,
+  "count": 6,
+  "spread": {"x": 1, "y": 1, "z": 1}
+}

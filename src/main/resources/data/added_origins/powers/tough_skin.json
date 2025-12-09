@@ -1,0 +1,10 @@
+{
+	"type": "origins:attribute",
+	"modifier": {
+		"attribute": "minecraft:generic.armor",
+		"value": 6.0,
+		"operation": "addition"
+	},
+	"name": "Tough Skin",
+	"description": "Your skinn is thick and rough, you have three natural armor bars and natural thorns."
+}

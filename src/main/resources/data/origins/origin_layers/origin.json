@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "order": 0,
+  "enabled": true,
+  "origins": [
+    "added_origins:caverner",
+    "added_origins:cowsian",
+    "added_origins:silverfishian",
+    "added_origins:endermite",
+    "added_origins:megaladon",
+    "added_origins:giant",
+    "added_origins:zythl",
+    "added_origins:xestrial",
+    "added_origins:roachist",
+    "added_origins:jumpscar",
+    "added_origins:pumpkineer"
+  ],
+	"allow_random_unchoosable": false
+
+}

@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"added_origins:healerabil",
+		"added_origins:poisonimmune",
+		"added_origins:poisonimmuneagain",
+		"added_origins:hugeapetite",
+		"origins:vegetarian"
+	],
+	"icon": "minecraft:glowstone",
+	"order": 21,
+	"impact": 2
+}

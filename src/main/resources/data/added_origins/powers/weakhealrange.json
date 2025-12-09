@@ -1,0 +1,20 @@
+{
+	"type": "origins:active_self",
+	"entity_action": {
+		"type": "origins:spawn_effect_cloud",
+		"radius": 11.0,
+		"wait_time": 100,
+		"effect": {
+			"effect": "minecraft:regeneration",
+			"amplifier": 1,
+			"duration": 1000
+		}
+	},
+	"hud_render": {
+		"should_render": true,
+		"bar_index": 19,
+		"sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_01.png"
+	},
+	"cooldown": 1390,
+	"key": "primary"
+}

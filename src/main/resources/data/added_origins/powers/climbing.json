@@ -1,0 +1,9 @@
+{
+  "type": "origins:climbing",
+  "condition": {
+    "type": "origins:collided_horizontally"
+  },
+  "allow_holding": true,
+  "name": "Wall-Climb",
+  "description": "Since you are a rat, you can climb walls!"
+}

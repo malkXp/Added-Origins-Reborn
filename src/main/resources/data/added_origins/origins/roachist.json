@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"origins:natural_armor",
+		"added_origins:less_hunger",
+		"added_origins:roach_sized",
+		"added_origins:lavahaterxes",
+		"added_origins:water_breath",
+		"added_origins:roachsize",
+		"added_origins:poisonimmune"
+	],
+	"icon": "minecraft:dirt",
+	"order": 12,
+	"impact": 2
+}

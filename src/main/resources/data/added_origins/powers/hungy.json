@@ -1,0 +1,10 @@
+{
+	"type": "origins:modify_exhaustion",
+	"modifier": {
+		"name": "Power Hungy",
+		"description": "A small robot like you needs to constantly feed as to not drain your battery dry!",
+		"value": 0.7,
+		"operation": "multiply_base",
+		"hidden": true
+	}
+}

@@ -1,0 +1,175 @@
+"entity_action": {
+  "type": "origins:and",
+  "actions": [
+    {
+	 "type": "origins:modify_food",
+  		"item_condition": {
+    	    "type": "origins:ingredient",
+    	    "ingredient": {
+               "item": "minecraft:apple"
+           }
+         },
+      "food_modifier": {
+        "operation": "addition",
+        "value": 3.0
+  },
+  "saturation_modifier": {
+    "operation": "addition",
+    "value": 3.0
+      }
+    },
+    {    
+		 "type": "origins:modify_food",
+  		"item_condition": {
+    	    "type": "origins:ingredient",
+    	    "ingredient": {
+               "item": "minecraft:beetroot"
+           }
+         },
+      "food_modifier": {
+        "operation": "addition",
+        "value": 2.0
+  },
+  "saturation_modifier": {
+    "operation": "addition",
+    "value": 3.5
+      }
+    },
+    {
+			 "type": "origins:modify_food",
+  		"item_condition": {
+    	    "type": "origins:ingredient",
+    	    "ingredient": {
+               "item": "minecraft:bread"
+           }
+         },
+      "food_modifier": {
+        "operation": "addition",
+        "value": 3.5
+  },
+  "saturation_modifier": {
+    "operation": "addition",
+    "value": 4
+      }
+    },
+    {
+			 "type": "origins:modify_food",
+  		"item_condition": {
+    	    "type": "origins:ingredient",
+    	    "ingredient": {
+               "item": "minecraft:carrot"
+           }
+         },
+      "food_modifier": {
+        "operation": "addition",
+        "value": 3.0
+  },
+  "saturation_modifier": {
+    "operation": "addition",
+    "value": 2.5
+      }
+    },
+    {
+			 "type": "origins:modify_food",
+  		"item_condition": {
+    	    "type": "origins:ingredient",
+    	    "ingredient": {
+               "item": "minecraft:chorus_fruit"
+           }
+         },
+      "food_modifier": {
+        "operation": "addition",
+        "value": 4.0
+  },
+  "saturation_modifier": {
+    "operation": "addition",
+    "value": 8
+      }
+    },
+    {
+			 "type": "origins:modify_food",
+  		"item_condition": {
+    	    "type": "origins:ingredient",
+    	    "ingredient": {
+               "item": "minecraft:cookie"
+           }
+         },
+      "food_modifier": {
+        "operation": "addition",
+        "value": 4.0
+  },
+  "saturation_modifier": {
+    "operation": "addition",
+    "value": 7
+      }
+    },
+    {
+    			 "type": "origins:modify_food",
+  		"item_condition": {
+    	    "type": "origins:ingredient",
+    	    "ingredient": {
+               "item": "minecraft:pumpkin_pie"
+           }
+         },
+      "food_modifier": {
+        "operation": "addition",
+        "value": 5.0
+  },
+  "saturation_modifier": {
+    "operation": "addition",
+    "value": 8.5
+      }
+    },
+    {
+			 "type": "origins:modify_food",
+  		"item_condition": {
+    	    "type": "origins:ingredient",
+    	    "ingredient": {
+               "item": "minecraft:sweet_berries"
+           }
+         },
+      "food_modifier": {
+        "operation": "addition",
+        "value": 4.0
+  },
+  "saturation_modifier": {
+    "operation": "addition",
+    "value": 6.5
+      }
+    },
+    {
+			 "type": "origins:modify_food",
+  		"item_condition": {
+    	    "type": "origins:ingredient",
+    	    "ingredient": {
+               "item": "minecraft:cooked_beef"
+           }
+         },
+      "food_modifier": {
+        "operation": "addition",
+        "value": 6.0
+  },
+  "saturation_modifier": {
+    "operation": "addition",
+    "value": 2.0
+      }
+    },
+    {
+		 "type": "origins:modify_food",
+  		"item_condition": {
+    	    "type": "origins:ingredient",
+    	    "ingredient": {
+               "item": "minecraft:enchanted_golden_apple"
+           }
+         },
+      "food_modifier": {
+        "operation": "addition",
+        "value": 9.0
+  },
+  "saturation_modifier": {
+    "operation": "addition",
+    "value": 12.0
+      }
+    }
+  ]
+}

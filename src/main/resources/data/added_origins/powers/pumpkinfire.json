@@ -1,0 +1,18 @@
+{
+	"type": "origins:multiple",
+	"origins:burn": {
+		"interval": 20,
+		"burn_duration": 1
+	},
+	"condition": {
+		"type": "origins:and",
+		"conditions": [
+			{
+				"type": "origins:daytime"
+			},
+			{
+				"type": "origins:exposed_to_sky"
+			}
+		]
+	}
+}

@@ -1,0 +1,350 @@
+{
+	"origin.added_origins.advanced_rat.name": "ねずみ",
+	"origin.added_origins.advanced_rat.description": "ねずみは上手な料理人！",
+
+	"origin.added_origins.buried.name": "ゆうれい",
+	"origin.added_origins.buried.description": "ゆうれいは埋葬することができる。",
+
+	"origin.added_origins.cacti.name": "サボテン+",
+	"origin.added_origins.cacti.description": "本当のサボテン！",
+
+	"origin.added_origins.pumpkineer.name": "パンプキニーア",
+	"origin.added_origins.pumpkineer.description": "パンプキニーアが失敗料理だ。誰かハロインナイトにぎょざかぼちゃ入り餃子をつくってしまいました。",
+
+	"origin.added_origins.dakor.name": "ダコア・ヒーラー",
+	"origin.added_origins.dakor.description": "ダコア・ヒーラーは遠隔かいふくに特化する。",
+
+	"origin.added_origins.dakorm.name": "ダコア・水の魔法使い",
+	"origin.added_origins.dakorm.description": "ダコア・水の魔法使いは水中の戦闘に特化する。",
+
+	"origin.added_origins.dakorw.name": "ダコア・戦士",
+	"origin.added_origins.dakorw.description": "ダコア・戦士は怒りの魔法を使える。",
+
+	"origin.added_origins.cactusorigin.name": "サボテン",
+	"origin.added_origins.cactusorigin.description": "サボテンそう。",
+
+	"origin.added_origins.illusionist.name": "イリュージョニスト",
+	"origin.added_origins.illusionist.description": "イリュージョニストはイリュージョンとうそのマスターだ。",
+
+	"origin.added_origins.antimancer.name": "アンチマンサー",
+	"origin.added_origins.antimancer.description": "アンチマンサーはモンスターの狩りのマスターだ。",
+
+	"origin.added_origins.lakor.name": "ラコア・ヒーラー",
+	"origin.added_origins.lakor.description": "ラコア・ヒーラーは近いかいふくに特化する。",
+
+	"origin.added_origins.lakorw.name": "ラコア・戦士",
+	"origin.added_origins.lakorw.description": "ラコア・戦士はとってもうまいだ。勉強で頑張ったから。",
+
+	"origin.added_origins.caverner.name": "彫る人",
+	"origin.added_origins.caverner.description": "この生物の手がすご長いだ。手で石のブロックをとることができる。",
+
+	"origin.added_origins.jumpscar.name": "ジャンプケア",
+	"origin.added_origins.jumpscar.description": "ジャンプケアは知らない生物の名前だ。この生物の生活はひみつだ。",
+
+	"origin.added_origins.cowsian.name": "牛",
+	"origin.added_origins.cowsian.description": "確かに牛。",
+
+	"origin.added_origins.endermite.name": "エンダーマイト",
+	"origin.added_origins.endermite.description": "エンダーマイトはエンダーパール を使うことで現わせることが多い。でも、普通の場所で現わせてきました。",
+
+	"origin.added_origins.giant.name": "巨大",
+	"origin.added_origins.giant.description": "背が高い生物だ。",
+
+	"origin.added_origins.megaladon.name": "メガロドン",
+	"origin.added_origins.megaladon.description": "この生物はふかい海に住んでいる。",
+
+	"origin.added_origins.roachist.name": "虫",
+	"origin.added_origins.roachist.description": "確かに虫。",
+
+	"origin.added_origins.necromancer.name": "ネクロマンサー",
+	"origin.added_origins.necromancer.description": "ネクロマンサーはアンデッドを召喚することができる。",
+
+	"origin.added_origins.silverfishian.name": "シルバーフィッシュ ",
+	"origin.added_origins.silverfishian.description": "シルバーフィッシュはダンジョンで住むことが多いのに、普通の場所に現わせてきた。",
+
+	"origin.added_origins.silverfishiash.name": "シルバーフィッシャッシュ",
+	"origin.added_origins.silverfishiash.description": "シルバーフィッシャッシュが変わったシルバーフィッシュだ。",
+
+	"origin.added_origins.xestrial.name": "クセストリアル",
+	"origin.added_origins.xestrial.description": "この神話的な生物は氷と雪に囲まれて住んでいます。",
+
+	"origin.added_origins.zythl.name": "ズンスル",
+	"origin.added_origins.zythl.description": "この神話的な生物はアンダーグラウンドで住んでいます。",
+
+	"power.added_origins.anormalsizeshift.name": "普通のサイズになる",
+	"power.added_origins.anormalsizeshift.description": "普通のサイズにスイッチする。",
+
+	"power.added_origins.betterfoodfull.name": "いい味",
+	"power.added_origins.betterfoodfull.description": "食べ物の味はもっとよくなる。",
+
+	"power.added_origins.bigsize.name": "大きいサイズ",
+	"power.added_origins.bigsize.description": "あなたは普通の人より背が高いだ。",
+
+	"power.added_origins.big_sized.name": "大きいサイズ",
+	"power.added_origins.big_sized.description": "あなたは普通の人より背が高いだ。",
+
+	"power.added_origins.blindnesshit.name": "暗闇を召喚する",
+	"power.added_origins.blindnesshit.description": "あなたは殴ったら、敵の目が悪くになる。",
+
+	"power.added_origins.blindnesshit2.name": "暗闇を召喚する",
+	"power.added_origins.blindnesshit2.description": "あなたは殴ったら、敵の目が悪くになる。",
+
+	"power.added_origins.burypunch.name": "デスパンチ",
+	"power.added_origins.burypunch.description": "殴くと4ブロック分の深さの地面に物が埋まる。",
+
+	"power.added_origins.cookeda.name": "a",
+	"power.added_origins.cookeda.description": "a",
+
+	"power.added_origins.cookedb.name": "a",
+	"power.added_origins.cookedb.description": "a",
+
+	"power.added_origins.cookedc.name": "a",
+	"power.added_origins.cookedc.description": "a",
+
+	"power.added_origins.cookedd.name": "a",
+	"power.added_origins.cookedd.description": "a",
+
+	"power.added_origins.cookede.name": "a",
+	"power.added_origins.cookede.description": "a",
+
+	"power.added_origins.cookedf.name": "a",
+	"power.added_origins.cookedf.description": "a",
+
+	"power.added_origins.cookedg.name": "a",
+	"power.added_origins.cookedg.description": "a",
+
+	"power.added_origins.cookedh.name": "a",
+	"power.added_origins.cookedh.description": "a",
+
+	"power.added_origins.cookedi.name": "a",
+	"power.added_origins.cookedi.description": "a",
+
+	"power.added_origins.cookedfoodbetter.name": "いい味",
+	"power.added_origins.cookedfoodbetter.description": "食べ物の味はもっとよくなる。",
+
+	"power.added_origins.cowlife.name": "牛の生活",
+	"power.added_origins.cowlife.description": "あなたは牛なので、ほとんどのモンスターはあなたを最初に攻撃することはありません。",
+
+	"power.added_origins.dakormage.name": "体がいい",
+	"power.added_origins.dakormage.description": "あなたは追加の体力を持っている。",
+
+	"power.added_origins.dividefalldamage.name": "魔法的な骨",
+	"power.added_origins.dividefalldamage.description": "落下のダメージ が倍で減る。",
+
+	"power.added_origins.drinkwaterwb.name": "水を飲む",
+	"power.added_origins.drinkwaterwb.description": "水のガラス瓶によって 肺に空気を注げる。",
+
+	"power.added_origins.fireshootm.name": "トゥルーデントの魔法",
+	"power.added_origins.fireshootm.description": "プライマリアビリティボタンを押すとトゥルーデントを投げるようになっている。",
+
+	"power.added_origins.foodgiver.name": "食べ物のかいりょう",
+	"power.added_origins.foodgiver.description": "プライマリアビリティボタンを押すと食べ物がもっとおいしくなる。",
+
+	"power.added_origins.friendsofpillagers.name": "イリジャーの友達",
+	"power.added_origins.friendsofpillages.description": "あなたはイリジャーなので、ほかのイリジャーがあなたをたたかない。",
+
+	"power.added_origins.giant_sized.name": "巨大サイズ",
+	"power.added_origins.giant_sized.description": "背がめちゃくちゃ高い。",
+
+	"power.added_origins.giantsizeshift.name": "巨大になる",
+	"power.added_origins.giantsizeshift.description": "巨人の大きさになれる！",
+
+	"power.added_origins.healerabil.name": "回復のまる",
+	"power.added_origins.healerabil.description": "プライマリアビリティボタンを押すとあなたと他の生物を回復ことができる。",
+
+	"power.added_origins.hugeapetite.name": "大きい食欲",
+	"power.added_origins.hugeapetite.description": "あなたはいつもたくさん料理を食べたい。",
+
+	"power.added_origins.hydrophobic_legs.name": "水がにがて",
+	"power.added_origins.hydrophobic_legs.description": "ゆっくり泳ぐ。",
+
+	"power.added_origins.icysubstance.name": "手伝い氷",
+	"power.added_origins.icysubstance.description": "氷に立つたら、あなたの強さがふえる。",
+
+	"power.added_origins.illusionerarmy.name": "イリュージョナーのミニオンズ",
+	"power.added_origins.illusionerarmy.description": "あなたはイリュージョナーの軍隊を呼べる。",
+
+	"power.added_origins.illusionerhealth.name": "体がいい",
+	"power.added_origins.illusionerhealth.description": "あなたは追加の体力を持っている。",
+
+	"power.added_origins.jumpfreeze.name": "雪の体",
+	"power.added_origins.jumpfreeze.description": "火がダマジする。",
+
+	"power.added_origins.jumpscare.name": "ジャンプスケア",
+	"power.added_origins.jumpscare.description": "プライマリアビリティボタンを押すとジャンプすると近いモンスターを目がわるくなられる。",
+
+	"power.added_origins.lakordamagebuff.name": "ラコア・戦士",
+	"power.added_origins.lakordamagebuff.description": "あなたは戦士なので、もっと多いダマジすることができる。",
+
+	"power.added_origins.lakorkillerradius.name": "クリムゾン・クラウド ",
+	"power.added_origins.lakorkillerradius.description": "プライマリアビリティボタンを押すとジャンプするとクリムゾン・クラウド を召喚する。",
+
+	"power.added_origins.lastchancefighter.name": "自然の守り",
+	"power.added_origins.lastchancefighter.description": "あなたは追加防具がある。",
+
+	"power.added_origins.lavahaterxes.name": "溶岩に弱い",
+	"power.added_origins.lavahaterxes.description": "溶岩に直ぐにくろされる。",
+
+	"power.added_origins.lavakiller.name": "溶岩の戦士",
+	"power.added_origins.lavakiller.description": "溶岩に泳いだら、追加ダメージをする。",
+
+	"power.added_origins.less_hunger.name": "食欲が少ない",
+	"power.added_origins.less_hunger.description": "あなたはたくさんたべたくない。",
+
+	"power.added_origins.levitationillusion.name": "レビテーション",
+	"power.added_origins.levitationillusion.description": "プライマリアビリティボタンを押すと５秒間で飛べる。",
+
+	"power.added_origins.lightningsummon.name": "電のクロス",
+	"power.added_origins.lightningsummon.description": "４方向に電を撃てる。",
+
+	"power.added_origins.mobarmor.name": "モンスターへの耐性",
+	"power.added_origins.mobarmor.description": "モンスターから受けるダメージが少なくなる。",
+
+	"power.added_origins.modifyhealth.name": "追加の体力",
+	"power.added_origins.modifyhealth.description": "あなたの体力は倍だ。",
+
+	"power.added_origins.necrofalldd.name": "弱点",
+	"power.added_origins.necrofalldd.description": "その他のことから追加ダメージをもらう。",
+
+	"power.added_origins.necrofiredd.name": "弱点",
+	"power.added_origins.necrofiredd.description": "その他のことから追加ダメージをもらう。",
+
+	"power.added_origins.necrolava.name": "弱点",
+	"power.added_origins.necrolava.description": "その他のことから追加ダメージをもらう。",
+
+	"power.added_origins.necromancerarrowi.name": "矢の耐性",
+	"power.added_origins.necromancerarrowi.description": "矢から受けるダメージが少なくなる。",
+
+	"power.added_origins.necromancerdd.name": "弱点",
+	"power.added_origins.necromancerdd.description": "その他のことから追加ダメージをもらう。",
+
+	"power.added_origins.necromancermobi.name": "モンスターへの耐性",
+	"power.added_origins.necromancermobi.description": "モンスターから受けるダメージがない。",
+
+	"power.added_origins.necromancersummons.name": "スケルトンの召喚",
+	"power.added_origins.necromancersummons.description": "あなたは改良したスケルトンの召喚するこたができる。",
+
+	"power.added_origins.necromancersummonsz.name": "ゾンビの召喚",
+	"power.added_origins.necromancersummonsz.description": "あなたは改良したゾンビの召喚するこたができる。",
+
+	"power.added_origins.necroonfiredd.name": "弱点",
+	"power.added_origins.necroonfiredd.description": "その他のことから追加ダメージをもらう。",
+
+	"power.added_origins.netherpunch.name": "ネザーのパンチ",
+	"power.added_origins.netherpunch.description": "的はパンチでネザーに送れる。",
+
+	"power.added_origins.nightlight.name": "ナイトビジョン",
+	"power.added_origins.nightlight.description": "洞窟は明るそう。",
+
+	"power.added_origins.nohitdamage.name": "弱い拳",
+	"power.added_origins.nohitdamage.description": "拳でダマージをすることがでりない。",
+
+	"power.added_origins.noregengoharvest.name": "ソウル・リーパー",
+	"power.added_origins.noregengoharvest.description": "回復のために魂を集めなければならない。",
+
+	"power.added_origins.nosleeppumpkin.name": "不安",
+	"power.added_origins.nosleeppumpkin.description": "魂を集めらなければならないので、あなたは眠ることができない...",
+	"power.added_origins.nosleeppumpkin.message": "魂を集めらなければならないので、あなたは眠ることができない...",
+
+	"power.added_origins.not_so_fine.name": "疎水性",
+	"power.added_origins.not_so_fine.description": "あなたは水を恐れている。",
+
+	"power.added_origins.okcombat.name": "野蛮スタイル",
+	"power.added_origins.okcombat.description": "ラコア・戦士に比べてダコア・戦士はよくなく鍛えた戦士だ。",
+
+	"power.added_origins.phasingii.name": "テレポートの改善",
+	"power.added_origins.phasingii.description": "さらに多くのブロックをテレポートすることができます。",
+
+	"power.added_origins.poisonimmune.name": "魔法耐性",
+	"power.added_origins.poisonimmune.description": "魔法ダメージに対する免疫がある。",
+
+	"power.added_origins.poisonimmuneagain.name": "ウィザー耐性",
+	"power.added_origins.poisonimmuneagain.description": "ウィザーのダメージに対する免疫がある。",
+
+	"power.added_origins.projarrsiashsho.name": "炎の息吹",
+	"power.added_origins.projarrsiashsho.description": "セカンダリーアビリティボタンを押すと炎の息吹を出る。",
+
+	"power.added_origins.projectilehurts.name": "大きなターゲット",
+	"power.added_origins.projectilehurts.description": "投擲物から受けるダメージが２倍になる。",
+
+	"power.added_origins.pumpkinfire.name": "太陽の怖さ",
+	"power.added_origins.pumpkinfire.description": "あなたは昼間に燃えられる。",
+
+	"power.added_origins.ragemod.name": "怒り",
+	"power.added_origins.ragemod.description": "プライマリアビリティボタンを押すとあなたのダメージが増える。",
+
+	"power.added_origins.rainydays.name": "雨",
+	"power.added_origins.rainydays.description": "セカンダリーアビリティボタンを押すと雨がふり始める。",
+
+	"power.added_origins.roach_sized.name": "虫の背長",
+	"power.added_origins.roach_sized.description": "あなたはゴキブリのような大きいだ。",
+
+	"power.added_origins.rooted.name": "根を張る",
+	"power.added_origins.rooted.description": "プライマリアビリティボタンを押すと的をスタンして、あなたが回復する。",
+
+	"power.added_origins.silverfish_sized.name": "シルバーフィッシュの背長",
+	"power.added_origins.silverfish_sized.description": "あなたはシルバーフィッシュのような大きいだ。",
+
+	"power.added_origins.silverfishiash_sized.name": "シルバーフィッシュの背長",
+	"power.added_origins.silverfishiash_sized.description": "あなたはシルバーフィッシュのような大きいだ。",
+
+	"power.added_origins.slowaat.name": "重い足取り",
+	"power.added_origins.slowaat.description": "あなたはとても遅いだ。",
+
+	"power.added_origins.slowblind.name": "モグラの目",
+	"power.added_origins.slowblind.description": "太陽はあなたの繊細な目を眩ませる。",
+
+	"power.added_origins.slowblind2.name": "モグラの目",
+	"power.added_origins.slowblind2.description": "太陽はあなたの繊細な目を眩ませる。",
+
+	"power.added_origins.soulharvestregen.name": "魂の収穫",
+	"power.added_origins.soulharvestregen.description": "魂を吸収すると体力が回復する。",
+
+	"power.added_origins.speedaat.name": "軽い",
+	"power.added_origins.speedaat.description": "速く動くことができる。",
+
+	"power.added_origins.spookyenvironment.name": "気味が悪い",
+	"power.added_origins.spookyenvironment.description": "プライマリアビリティボタンを押すとかぼちゃのモンスターを召喚できる。",
+
+	"power.added_origins.super_hydrophobic_legs.name": "水がにがて",
+	"power.added_origins.super_hydrophobic_legs.description": "水の中では遅くなります。",
+
+	"power.added_origins.super_strength.name": "すごく強い",
+	"power.added_origins.super_strength.description": "あなたは通常よりも強い。",
+
+	"power.added_origins.thornsc.name": "いばら",
+	"power.added_origins.thornsc.description": "もらったダメージは的にかえす。",
+
+	"power.added_origins.triplemobdamage.name": "モンスターハンター",
+	"power.added_origins.triplemobdamage.description": "モンスターに３倍の追加ダメージを与える。",
+
+	"power.added_origins.triplepillagerdamage.name": "ピリジャーハンター",
+	"power.added_origins.triplepillagerdamage.description": "ピリジャーに５倍の追加ダメージを与えます。",
+
+	"power.added_origins.triplespiderdamage.name": "虫ハンター",
+	"power.added_origins.triplespiderdamage.description": "虫に３倍の追加ダメージを与えます。",
+
+	"power.added_origins.villagerhater.name": "レイダー",
+	"power.added_origins.villagerhater.description": "村人はあなたのことがいやになった。",
+
+	"power.added_origins.water_breath.name": "虫の呼吸",
+	"power.added_origins.water_breath.description": "水中でもっと少なく息ががまんすることができる。",
+
+	"power.added_origins.waterbreathall.name": "両生類",
+	"power.added_origins.waterbreathall.description": "陸上でも水中でも呼吸ができる。",
+
+	"power.added_origins.weakhealrange.name": "遠隔かいふく",
+	"power.added_origins.weakhealrange.description": "プライマリアビリティボタンを押すとエンティティのグループをヒーリングすることができます ",
+
+	"power.added_origins.xestriallaunch.name": "クセストリアルのジャンプ",
+	"power.added_origins.xestriallaunch.description": "あんたはながくジャンプすることができる。",
+
+	"power.added_origins.zythlheal.name": "ズンスルの回復",
+	"power.added_origins.zythlheal.description": "セカンダリーアビリティボタンを押すと自分をヒーリングする。",
+
+	"power.added_origins.zythlpower.name": "ズンスルのジャンプ",
+	"power.added_origins.zythlpower.description": "あんたはながくジャンプすることができる。",
+
+	"power.added_origins.forestspawn.name": "自然の生息地",
+	"power.added_origins.forestspawn.description": "最も暗い森があなたの名前を呼んでいます。"
+}

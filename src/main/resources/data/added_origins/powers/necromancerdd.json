@@ -1,0 +1,12 @@
+{
+  "type": "origins:modify_damage_taken",
+  "modifier": {
+	"name": "Origin modifier",
+	"value": 3,
+	"operation": "multiply_base"
+  },
+  "damage_condition": {
+	"type": "origins:name",
+	"name": "generic"
+  }
+}

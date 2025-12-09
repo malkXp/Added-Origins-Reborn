@@ -1,0 +1,34 @@
+{
+	"name": "Iron Strength",
+	"description": "While around blocks with a medium tier iron consistancy you will gain strength!",
+	"type": "origins:stacking_status_effect",
+	"min_stacks": 0,
+	"max_stacks": 10,
+	"duration_per_stack": 20,
+	"effects": [{
+			"effect": "minecraft:strength",
+			"is_ambient": true,
+			"show_particles": false,
+			"show_icon": false
+		},
+		{
+			"effect": "minecraft:night_vision",
+			"is_ambient": true,
+			"show_particles": false,
+			"show_icon": false,
+			"amplifier": 1
+		}
+	],
+	"condition": {
+		"type": "origins:block_in_radius",
+		"block_condition": {
+			"type": "origins:in_tag",
+			"tag": "added_origins:mid_iron"
+		},
+		"radius": 5,
+		"shape": "cube",
+		"comparison": ">=",
+		"compare_to": 1
+	}
+
+}

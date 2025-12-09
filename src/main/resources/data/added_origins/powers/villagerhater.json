@@ -1,0 +1,27 @@
+{
+	"type": "origins:action_on_land",
+	"entity_action": {
+		"type": "origins:and",
+		"actions": [{
+				"type": "origins:execute_command",
+				"command": "team add villagers",
+				"permission_level": 4
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join villagers @e[type=minecraft:villager]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join villagers @e[type=minecraft:iron_golem]"
+			}
+		]
+	},
+	"entity_action_lost": {
+		"type": "origins:execute_command",
+		"command": "team remove villagers",
+		"permission_level": 4
+	}
+}

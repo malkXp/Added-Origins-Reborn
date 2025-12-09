@@ -1,0 +1,29 @@
+	"powers": [
+		"added_origins:climb",
+		"added_origins:cold_slowness",
+		"added_origins:desert_buffs",
+		"added_origins:invincible",
+		"added_origins:noshield",
+		"added_origins:toggle",
+		"added_origins:hungy",
+		"added_origins:rain_slowness",
+		"added_origins:phasing",
+		"added_origins:sandize",
+		"added_origins:sixhearts",
+		"added_origins:small",
+		"added_origins:thorny",
+		"added_origins:desert",
+		"added_origins:fall",
+		"added_origins:sink",
+		"added_origins:ride",
+		"added_origins:cactus",
+		"added_origins:arrowmagnet",
+		"added_origins:tough_skin"
+	],
+	"icon": "minecraft:sandstone",
+	"order": 10,
+	"impact": 3,
+	"name": "Girdled Lizard",
+	"description": "Born from the desert dunes, you live most of your life underground in a burrow eating bug. -Created by HeatUp"
+
+Disabled Origin

@@ -1,0 +1,18 @@
+{
+	"powers": [
+		"added_origins:necromancermobi",
+		"added_origins:necrofalldd",
+		"added_origins:necrofiredd",
+		"added_origins:mobarmor",
+		"added_origins:necromancerarrowi",
+		"added_origins:necroonfiredd"
+	],
+	"icon": "minecraft:rotten_flesh",
+	"order": 7,
+	"impact": 3,
+	"upgrades": {
+        "condition": "minecraft:end/kill_dragon",
+        "origin": "added_origins:antimancer",
+        "announcement": "You have evolved, you are now capable of destroyed beings in seconds"
+    }
+}

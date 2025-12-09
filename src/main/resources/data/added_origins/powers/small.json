@@ -1,0 +1,11 @@
+{
+	"type": "origins:attribute",
+	"modifier": {
+		"name": "Fragile health reduction",
+		"description": "none",
+		"attribute": "minecraft:generic.max_health",
+		"value": -10,
+		"operation": "addition",
+		"hidden": true
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"type": "origins:active_self",
+	"entity_action": {
+		"type": "origins:and",
+		"actions": [
+			{
+				"type": "origins:add_velocity",
+				"z": 6,
+				"space": "local"
+			},
+			{
+				"type": "origins:spawn_particles",
+				"particle": "minecraft:item_snowball",
+				"count": 20
+			}
+		]
+	},
+	"cooldown": 400,
+	"hud_render": {
+		"should_render": true,
+		"bar_index": 5
+	}
+}

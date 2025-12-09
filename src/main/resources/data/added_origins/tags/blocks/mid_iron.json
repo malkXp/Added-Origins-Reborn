@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:raw_iron_block",
+		"minecraft:activator_rail",
+		"minecraft:blast_furnace",
+		"minecraft:detector_rail",
+		"minecraft:hopper",
+		"minecraft:iron_trapdoor",
+		"minecraft:rail"		
+
+	]
+}

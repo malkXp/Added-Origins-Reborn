@@ -1,0 +1,15 @@
+{
+  "type": "origins:modify_damage_taken",
+  "modifier": {
+	"name": "Origin modifier",
+	"value": -2,
+	"operation": "multiply_total"
+  },
+  "damage_condition": {
+	"type": "origins:name",
+	"name": "fall"
+  },
+	"name": "Fall Damage Magic",
+	"description": "You don't take half as much fall damage as you used to!",
+	"hidden": true
+}

@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"added_origins:foodgiver",
+		"added_origins:cookedfoodbetter",
+		"added_origins:silverfish_sized",
+		"added_origins:silverfishsize",
+		"added_origins:climbing"
+	],
+	"icon": "minecraft:cauldron",
+	"order": 46,
+	"impact": 1
+}

@@ -1,0 +1,32 @@
+{
+  "type": "origins:active_self",
+  "entity_action": {
+      "type": "origins:and",
+  "actions": [
+    {
+  "type": "origins:spawn_effect_cloud",
+  "radius": 15.0,
+  "wait_time": 10,
+  "effect": {
+    "effect": "minecraft:slowness",
+    "amplifier": 255,
+    "duration": 200
+  	  }
+       },
+    {
+  "type": "origins:apply_effect",
+  "effect": {
+    "effect": "minecraft:regeneration",
+    "duration": 200,
+    "amplifier": 1
+     }
+    }
+   ]
+  },
+  "cooldown": 3405,
+  "hud_render": {
+    "should_render": true,
+    "bar_index": 5
+	},
+	"key": "primary"
+}

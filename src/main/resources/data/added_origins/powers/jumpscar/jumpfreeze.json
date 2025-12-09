@@ -1,0 +1,19 @@
+{
+  "type": "origins:freeze",
+  "interval": 20,
+  "burn_duration": 3,
+  "condition": {
+    "type": "origins:and",
+    "conditions": [
+      {
+        "type": "origins:biome",
+        "condition":
+        {
+          "type": "origins:temperature",
+          "comparison": "<",
+          "compare_to": 0.2
+        }
+      }
+    ]
+  }
+}

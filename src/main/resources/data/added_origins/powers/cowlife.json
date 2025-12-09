@@ -1,0 +1,172 @@
+{
+	"type": "origins:action_on_land",
+	"entity_action": {
+		"type": "origins:and",
+		"actions": [{
+				"type": "origins:execute_command",
+				"command": "team add cowlife",
+				"permission_level": 4
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @s"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:blaze]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:creeper]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:drowned]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:elder_guardian]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:endermite]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:evoker]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:ghast]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:guardian]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:hoglin]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:husk]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:magma_cube]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:phantom]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:piglin_brute]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:pillager]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:ravager]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraftshulker]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:silverfish]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:skeleton]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:slime]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:stray]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:vex]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:vindicator]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:witch]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:wither_skeleton]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:zoglin]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:zombie_villager]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:zombie]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:cave_spider]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:spider]"
+			},
+			{
+				"type": "origins:execute_command",
+				"permission_level": 4,
+				"command": "team join cowlife @e[type=minecraft:piglin]"
+			}
+		]
+	},
+	"entity_action_lost": {
+		"type": "origins:execute_command",
+		"command": "team remove cowlife",
+		"permission_level": 4
+	}
+}

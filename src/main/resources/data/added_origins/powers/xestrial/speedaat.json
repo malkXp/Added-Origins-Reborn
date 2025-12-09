@@ -1,0 +1,8 @@
+{
+	"type": "origins:modify_attribute",
+	"attribute": "minecraft:generic.movement_speed",
+	"modifier": {
+		"operation": "multiply_total",
+		"value": 0.35
+	}
+}

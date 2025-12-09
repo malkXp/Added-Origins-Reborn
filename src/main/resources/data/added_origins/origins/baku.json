@@ -1,0 +1,36 @@
+	"powers": [
+		"added_origins:coal",
+		"added_origins:hydrophobica",
+		"added_origins:iron_only",
+		"added_origins:ironeat",
+		"added_origins:ironmid",
+		"added_origins:ironmidheight",
+		"added_origins:ironstrong",
+		"added_origins:ironstrongheight",
+		"added_origins:ironstronghp",
+		"added_origins:reverthp",
+		"added_origins:ironweak",
+		"added_origins:nomshield",
+		"added_origins:rawironeat",
+		"added_origins:redstone",
+		"added_origins:ride",
+		"added_origins:small",
+		"added_origins:small2",
+		"added_origins:speedy",
+		"added_origins:boing",
+		"added_origins:reverttoogsize",
+		"added_origins:golden_diet",
+		"added_origins:hungy",
+		"added_origins:frozencurcuits",
+		"added_origins:invincible",
+		"origins:slow_falling",
+		"origins:like_air"
+
+	],
+	"icon": "minecraft:magma_cream",
+	"order": 10,
+	"impact": 3,
+	"name": "Bakugan",
+	"description": "You are a Bakugan, small frail and light, yet extremely powerful once awakened."
+
+Disabled Origin

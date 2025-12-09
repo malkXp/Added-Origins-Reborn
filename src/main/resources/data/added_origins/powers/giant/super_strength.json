@@ -1,0 +1,8 @@
+{
+	"type": "origins:modify_damage_dealt",
+	"modifier": {
+		"name": "The strength of a Giant",
+		"operation": "addition",
+		"value": 3.0
+	}
+}

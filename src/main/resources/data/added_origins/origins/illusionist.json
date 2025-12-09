@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"added_origins:levitationillusion",
+		"added_origins:illusionerarmy",
+		"added_origins:illusionerhealth",
+		"origins:water_vulnerability",
+		"added_origins:projectilehurts",
+		"added_origins:dividefalldamage",
+		"added_origins:friendsofpillagers",
+		"added_origins:villagerhater"
+	],
+	"icon": "minecraft:purpur_pillar",
+	"order": 1,
+	"impact": 3
+}

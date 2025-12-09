@@ -1,0 +1,12 @@
+{
+  "type": "origins:modify_damage_dealt",
+  "modifier": {
+	"name": "Origin modifier",
+	"operation": "multiply_base",
+	"value": 5
+  },
+  "target_condition": {
+	"type": "origins:entity_group",
+	"group": "illager"
+ }
+}

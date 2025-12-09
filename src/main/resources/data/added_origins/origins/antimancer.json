@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"added_origins:triplemobdamage",
+		"added_origins:triplepillagerdamage",
+		"added_origins:triplespiderdamage",
+		"added_origins:lightningsummon",
+		"added_origins:modifyhealth",
+		"added_origins:reset"
+	],
+	"icon": "minecraft:netherite_ingot",
+	"order": 7,
+	"impact": 3,
+	"unchoosable": true
+}

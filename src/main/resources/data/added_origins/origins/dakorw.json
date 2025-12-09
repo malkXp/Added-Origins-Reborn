@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"added_origins:okcombat",
+		"added_origins:ragemod",
+		"added_origins:poisonimmune",
+		"added_origins:poisonimmuneagain",
+		"added_origins:hugeapetite",
+		"origins:vegetarian"
+	],
+	"icon": "minecraft:iron_axe",
+	"order": 15,
+	"impact": 1
+}

@@ -1,0 +1,26 @@
+{
+  "type": "origins:multiple",
+
+  "lack_of_value": {
+    "type": "origins:modify_food",
+    "food_modifier": {
+      "name": "Increased food points",
+      "operation": "multiply_base",
+      "value": -0.25
+    },
+    "saturation_modifier": {
+      "name": "Increased saturation points",
+      "operation": "multiply_base",
+      "value": -0.25
+    }
+  },
+
+  "mod_exhaustion": {
+    "type": "origins:modify_exhaustion",
+    "modifier": {
+      "name": "Extra large exhaustion from large appetite",
+      "value": 0.675,
+      "operation": "multiply_base"
+    }
+  }
+}

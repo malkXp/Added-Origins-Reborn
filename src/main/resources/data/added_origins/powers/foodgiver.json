@@ -1,0 +1,14 @@
+{
+	"type": "origins:active_self",
+	"entity_action": {
+  		"type": "origins:feed",
+  		"food": 7.0,
+		"saturation": 7.0
+	},
+	"cooldown": 795,
+	"hud_render": {
+		"should_render": true,
+		"bar_index": 3
+	},
+	"key": "primary"
+}

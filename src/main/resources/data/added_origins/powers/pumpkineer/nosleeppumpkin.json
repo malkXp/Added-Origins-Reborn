@@ -1,0 +1,4 @@
+{
+  "type": "origins:prevent_sleep",
+  "message": "You cannot sleep now, you have some harvesting to do"
+}

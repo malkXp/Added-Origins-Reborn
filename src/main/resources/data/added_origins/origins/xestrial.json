@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"origins:translucent",
+		"added_origins:xestrial/lavahaterxes",
+		"added_origins:xestrial/resistanceimmunity",
+		"added_origins:xestrial/freezeimmunity",
+		"added_origins:xestrial/xestriallaunch",
+		"added_origins:xestrial/icysubstance",
+		"origins:fall_immunity",
+		"added_origins:xestrial/speedaat",
+		"added_origins:xestrial/snowaura"
+	],
+	"icon": "minecraft:ice",
+	"order": 25,
+	"impact": 2
+}

@@ -1,0 +1,13 @@
+{ 
+	"type": "origins:fire_projectile",
+	"cooldown": 110,
+	"hud_render": {
+		"bar_index": 3
+	},
+	"entity_type": "arrow",
+	"count": 5,
+	"sound": "entity.blaze.shoot",
+	"speed": 10,
+	"divergence": 1,
+	"key": "primary"
+}

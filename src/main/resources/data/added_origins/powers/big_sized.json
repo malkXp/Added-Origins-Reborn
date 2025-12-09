@@ -1,0 +1,35 @@
+{
+     "type": "origins:multiple",
+     "attribute_modifiers": {
+	   "type": "origins:attribute",
+	   "modifiers": [
+	     {
+		   "name": "Origin modifier",
+		   "attribute": "generic.max_health",
+		   "value": 6,
+		   "operation": "addition"
+	     },
+	     {
+		   "name": "Origin modifier",
+		   "attribute": "generic.attack_speed",
+	   	   "value": 1.25,
+		   "operation": "addition"
+	     },
+	     {
+		   "name": "Origin modifier",
+		   "attribute": "generic.movement_speed",
+		   "value": 0.05,
+		   "operation": "addition"
+	     }
+	
+  	   ]
+     },
+     "jump_modifier": {
+  	   "type": "origins:modify_jump",
+	   "modifier": {
+	     "name": "Origin modifier",
+	     "value": 0.03,
+	     "operation": "multiply_total"
+	   }
+     }
+}

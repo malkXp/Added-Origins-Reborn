@@ -1,0 +1,17 @@
+{
+	"type": "origins:active_self",
+	"entity_action": {
+		"type": "origins:execute_command",
+    			 "command": "summon skeleton ~-3 ~1 ~ {Team:3,HandItems:[{Count:1,id:bow,tag:{Enchantments:[{id:unbreaking,lvl:1},{id:power,lvl:1},{id:mending,lvl:1}]}},{}],ArmorItems:[{},{},{Count:1,id:leather_chestplate,tag:{display:{color:11546150}}},{}],HandDropChances:[0.1f,0.0f],ActiveEffects:[{Id:5,Amplifier:0,Duration:999999},{Id:12,Amplifier:0,Duration:999999},{Id:21,Amplifier:1,Duration:999999}]}",
+    			 "permission_level": 4
+	},
+	"cooldown": 3600,
+	"hud_render": {
+		"should_render": true,
+		"bar_index": 3
+	},
+	"condition": {
+	     "type": "origins:power_active",
+	     "power": "origins:phantomize"
+	}
+}

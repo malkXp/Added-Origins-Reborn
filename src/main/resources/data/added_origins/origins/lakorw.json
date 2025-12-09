@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"added_origins:lakordamagebuff",
+		"added_origins:lakorkillerradius",
+		"added_origins:poisonimmune",
+		"added_origins:hugeapetite",
+		"origins:vegetarian",
+		"added_origins:lastchancefighter"
+	],
+	"icon": "minecraft:iron_sword",
+	"order": 15,
+	"impact": 1
+}

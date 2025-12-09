@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"added_origins:rainydays",
+		"added_origins:rooted",
+		"added_origins:nohitdamage",
+		"added_origins:thornsc",
+		"added_origins:reset",
+		"added_origins:lastchancefighter"
+	],
+	"icon": "minecraft:cactus",
+	"order": 2022,
+	"impact": 3,
+	"unchoosable": true
+}

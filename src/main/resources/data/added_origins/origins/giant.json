@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"added_origins:giant/super_hydrophobic_legs",
+		"origins:strong_arms",
+		"added_origins:giant/lack_of_value",
+		"added_origins:giant/giant_sized",
+		"added_origins:giant/super_strength",
+		"origins:fall_immunity",
+		"origins:no_shield",
+		"added_origins:giant/giantsize",
+		"added_origins:giant/giantreach"
+	],
+	"icon": "minecraft:blackstone",
+	"order": 20,
+	"impact": 3
+}

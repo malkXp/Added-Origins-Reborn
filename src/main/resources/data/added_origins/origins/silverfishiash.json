@@ -1,0 +1,18 @@
+{
+	"powers": [
+		"origins:strong_arms",
+		"added_origins:silverfishiash_sized",
+		"origins:phasing",
+		"origins:phantomize",
+		"added_origins:silverfishiashsize",
+		"added_origins:silverfishiashsizeonemore",
+		"origins:strong_arms_break_speed",
+		"added_origins:projarrsiashsho",
+		"added_origins:resetsizesa",
+		"added_origins:resetsizesb"
+	],
+	"icon": "minecraft:stone_bricks",
+	"unchoosable": true,
+	"order": 11,
+	"impact": 2
+}

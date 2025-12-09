@@ -1,0 +1,19 @@
+{
+	"powers": [
+		"origins:no_shield",
+		"origins:strong_arms",
+		"added_origins:silverfish_sized",
+		"origins:phasing",
+		"origins:phantomize",
+		"added_origins:silverfishsize",
+		"added_origins:reset"
+	],
+	"icon": "minecraft:stone",
+	"order": 12,
+	"impact": 2,
+	"upgrades": {
+        "condition": "minecraft:end/kill_dragon",
+        "origin": "added_origins:silverfishiash",
+        "announcement": "You have evolved"
+    }
+}

@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"added_origins:jumpscar/jumpscare",
+		"added_origins:jumpscar/netherpunch",
+		"added_origins:jumpscar/jumpfreeze",
+		"added_origins:jumpscar/eversight",
+		"added_origins:hydrophobic_legs"
+	],
+	"icon": "minecraft:hay_block",
+	"order": 2022,
+	"impact": 3
+}

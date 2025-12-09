@@ -1,0 +1,12 @@
+{
+  "type": "origins:attacker_action_when_hit",
+   "entity_action": {
+  "type": "origins:apply_effect",
+  "effect": {
+    "effect": "minecraft:wither",
+    "duration": 20,
+    "amplifier": 3
+      }
+  },
+  "cooldown": 10
+}

@@ -1,0 +1,13 @@
+{
+  "type": "origins:modify_damage_taken",
+  "name": "Ranged Weakness",
+  "description": "You have no way of defending yourself from ranged foes, so arrows deal double damage to you as they pierce your skin.",
+  "damage_condition": {
+    "type": "origins:projectile",
+    "projectile": "minecraft:arrow"
+  },
+  "modifier": {
+    "operation": "multiply_total",
+    "value": 1.2
+  }
+}
