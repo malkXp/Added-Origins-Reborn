@@ -5,14 +5,18 @@
 	"name": "Added Origins Reborn",
 	"description": "A mod designed around adding new and fun origins",
 	"authors": [
-		"MalkXP",
+		"MalkXP"
+	],
+	"contributors":
+	[
 		"HeatUp__",
 		"Czarnick14",
 		"BatEnderGleb"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/added-origins",
+		"sources": "https://github.com/malkXp/Added-Origins-Reborn",
+		"issues": "https://github.com/malkXp/Added-Origins-Reborn/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/added_origins/icon.png",
