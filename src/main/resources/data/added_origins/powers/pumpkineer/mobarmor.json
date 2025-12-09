@@ -2,7 +2,7 @@
   "type": "origins:modify_damage_taken",
   "modifier": {
 	"name": "Origin modifier",
-	"value": 0.5,
+	"value": -0.5,
 	"operation": "multiply_total"
   },
   "damage_condition": {

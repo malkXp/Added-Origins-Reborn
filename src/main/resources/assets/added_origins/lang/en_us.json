@@ -233,8 +233,12 @@
 	"power.added_origins.necroonfiredd.name": "Diseased",
 	"power.added_origins.necroonfiredd.description": "You take additional damage from everything else.",
 
-	"power.added_origins.jumpscar/netherpunch.name": "Nether Punch",
-	"power.added_origins.jumpscar/netherpunch.description": "You can punch people into the Nether.",
+	"power.added_origins.jumpscar/netherpunch.name": "Nauseating Storm",
+	"power.added_origins.jumpscar/netherpunch.description": "You can bring forth lightning to everything in a 15 block radius while sickening them.",
+
+	"power.added_origins.jumpscar/nosleepjumpscare.name": "Permanent Awareness",
+	"power.added_origins.jumpscar/nosleepjumpscare.description": "You can never sleep, you are forever stuck awake",
+	"power.added_origins.jumpscar/nosleepjumpscare.message": "You can never sleep... no matter what.",
 
 	"power.added_origins.nightlight.name": "Night Light",
 	"power.added_origins.nightlight.description": "Caves appear brighter than normal.",
