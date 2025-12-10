@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"added_origins:megalodon/megalospeed",
+		"origins:aqua_affinity",
+		"origins:aquatic",
+		"origins:water_vision",
+		"origins:water_breathing",
+		"added_origins:megalodon/drinkwaterwb",
+		"added_origins:megalodon/big_sized",
+		"added_origins:megalodon/bigsize",
+		"added_origins:megalodon/bigreach"
+	],
+	"icon": "minecraft:cooked_cod",
+	"order": 2,
+	"impact": 2
+}

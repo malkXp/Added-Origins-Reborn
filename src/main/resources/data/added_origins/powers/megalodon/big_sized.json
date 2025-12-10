@@ -12,8 +12,8 @@
 	     {
 		   "name": "Origin modifier",
 		   "attribute": "generic.attack_speed",
-	   	   "value": 1.25,
-		   "operation": "addition"
+	   	   "value": -0.125,
+		   "operation": "multiply_total"
 	     },
 	     {
 		   "name": "Origin modifier",
@@ -28,7 +28,7 @@
   	   "type": "origins:modify_jump",
 	   "modifier": {
 	     "name": "Origin modifier",
-	     "value": 0.03,
+	     "value": 0.05,
 	     "operation": "multiply_total"
 	   }
      }

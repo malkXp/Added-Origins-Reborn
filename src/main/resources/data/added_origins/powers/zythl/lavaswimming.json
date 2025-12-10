@@ -1,0 +1,74 @@
+{
+  "type": "origins:multiple",
+
+  "lavaspeed": {
+    "type": "origins:modify_lava_speed",
+    "modifier": {
+      "operation": "multiply_base",
+      "value": 0.5
+    }
+  },
+
+  "lavaswim": {
+    "type": "origins:swimming",
+    "condition": {
+      "type": "origins:submerged_in",
+      "fluid": "minecraft:lava"
+    }
+  },
+
+  "lavamovement": {
+    "type": "origins:conditioned_attribute",
+    "modifiers": [
+      {
+        "attribute": "minecraft:generic.movement_speed",
+        "operation": "multiply_base",
+        "value": 0.35,
+        "name": "Increased sprinting speed"
+      }
+    ],
+    "tick_rate": 20,
+    "condition": {
+      "type": "origins:block_in_radius",
+      "block_condition": {
+        "type": "origins:block",
+        "block": "minecraft:lava"
+      },
+      "radius": 2,
+      "shape": "cube",
+      "comparison": ">=",
+      "compare_to": 1
+    }
+  },
+
+  "jumppower": {
+    "type": "origins:action_over_time",
+    "entity_action": {
+      "type": "origins:and",
+      "actions": [
+        {
+          "type": "origins:apply_effect",
+          "effect": {
+            "effect": "minecraft:jump_boost",
+            "duration": 40,
+            "amplifier": 0,
+            "show_particles": false,
+            "show_icon": false
+          }
+        }
+      ]
+    },
+    "interval": 20,
+    "condition": {
+      "type": "origins:block_in_radius",
+      "block_condition": {
+        "type": "origins:block",
+        "block": "minecraft:lava"
+      },
+      "radius": 2,
+      "shape": "cube",
+      "comparison": ">=",
+      "compare_to": 1
+    }
+  }
+}

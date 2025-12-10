@@ -50,8 +50,8 @@
 	"origin.added_origins.giant.name": "Giant",
 	"origin.added_origins.giant.description": "A creature of immense size and power.",
 
-	"origin.added_origins.megaladon.name": "Megalodon",
-	"origin.added_origins.megaladon.description": "These creatures often dwell in the deepest parts of the ocean, and were thought to be extinct.",
+	"origin.added_origins.megalodon.name": "Megalodon",
+	"origin.added_origins.megalodon.description": "These creatures often dwell in the deepest parts of the ocean, and were thought to be extinct.",
 
 	"origin.added_origins.roachist.name": "Roachist",
 	"origin.added_origins.roachist.description": "You are essentially a roach.",
@@ -77,11 +77,11 @@
 	"power.added_origins.betterfoodfull.name": "Better Taste",
 	"power.added_origins.betterfoodfull.description": "Certain foods taste better.",
 
-	"power.added_origins.bigsize.name": "Big Sized",
-	"power.added_origins.bigsize.description": "You are bigger than the average human.",
+	"power.added_origins.megalodon/big_sized.name": "Big Sized",
+	"power.added_origins.megalodon/big_sized.description": "You are bigger than the average human.",
 
-	"power.added_origins.big_sized.name": "Big Sized",
-	"power.added_origins.big_sized.description": "You are bigger than the average human.",
+	"power.added_origins.megalodon/megalospeed.name": "Megalofins",
+	"power.added_origins.megalodon/megalospeed.description": "You are extremely fast when underwater.",
 
 	"power.added_origins.pumpkineer/blindnesshit.name": "Summoner of Darkness",
 	"power.added_origins.pumpkineer/blindnesshit.description": "You blind anything that you hit.",
@@ -131,8 +131,8 @@
 	"power.added_origins.dividefalldamage.name": "Fall Damage Magic",
 	"power.added_origins.dividefalldamage.description": "You take half as much fall damage as you used to!",
 
-	"power.added_origins.drinkwaterwb.name": "Water Drinking",
-	"power.added_origins.drinkwaterwb.description": "Water restores your air capacity.",
+	"power.added_origins.megalodon/drinkwaterwb.name": "Bottle Quenching",
+	"power.added_origins.megalodon/drinkwaterwb.description": "Drinking from any type of potion restores air while on land.",
 
 	"power.added_origins.fireshootm.name": "Trident Magic",
 	"power.added_origins.fireshootm.description": "You can launch tridents using you Primary Ability key.",
@@ -187,9 +187,6 @@
 
 	"power.added_origins.xestrial/lavahaterxes.name": "Fire Susceptible",
 	"power.added_origins.xestrial/lavahaterxes.description": "Having a chance to escape fire was fine. Now it kills you instantly.",
-
-	"power.added_origins.lavakiller.name": "Lava Warrior",
-	"power.added_origins.lavakiller.description": "You do extra damage while submerged in lava!",
 
 	"power.added_origins.less_hunger.name": "Small Appetite",
 	"power.added_origins.less_hunger.description": "You eat less than others.",
@@ -253,8 +250,26 @@
 	"power.added_origins.pumpkineer/nosleeppumpkin.description": "You are unable to sleep since the souls have not been harvested...",
 	"power.added_origins.pumpkineer/nosleeppumpkin.message": "You cannot sleep, You have harvesting to do...",
 
-	"power.added_origins.not_so_fine.name": "Hydrophobic",
-	"power.added_origins.not_so_fine.description": "You have a fear of water.",
+	"power.added_origins.zythl/not_so_fine.name": "Extreme Hydrophobia",
+	"power.added_origins.zythl/not_so_fine.description": "Water immediately poisons you whenever you come in contact with it",
+
+	"power.added_origins.zythl/lavakiller.name": "Lava Warrior",
+	"power.added_origins.zythl/lavakiller.description": "You do extra damage while within 2 blocks of lava",
+
+	"power.added_origins.zythl/lavaviewer.name": "Heated Eyesight",
+	"power.added_origins.zythl/lavaviewer.description": "You're eyes are extremely efficient when submerged in lava.",
+
+	"power.added_origins.zythl/lavaswimming.name": "Volcanic Diving",
+	"power.added_origins.zythl/lavaswimming.description": "You are able to swim when submerged in lava",
+
+	"power.added_origins.zythl/zythlheal.name": "Molten Mending",
+	"power.added_origins.zythl/zythlheal.description": "You can frequently repair your body whenever you want.",
+
+	"power.added_origins.zythl/zythlpower.name": "Basalt Force",
+	"power.added_origins.zythl/zythlpower.description": "You have the ability to launch yourself anywhere",
+
+	"power.added_origins.zythl/lavareplacement.name": "Lava Walking",
+	"power.added_origins.zythl/lavareplacement.description": "You are able to walk on Lava at will.",
 
 	"power.added_origins.okcombat.name": "Untrained",
 	"power.added_origins.okcombat.description": "Dakor Warriors are less trained in combat than their Lakor counterparts.",
@@ -357,12 +372,6 @@
 
 	"power.added_origins.xestrial/xestriallaunch.name": "Glacial Force",
 	"power.added_origins.xestrial/xestriallaunch.description": "You have the ability to launch yourself anywhere",
-
-	"power.added_origins.zythlheal.name": "Zythl Heal",
-	"power.added_origins.zythlheal.description": "You can now heal yourself using your Secondary Ability key.",
-
-	"power.added_origins.zythlpower.name": "Zythl Dash",
-	"power.added_origins.zythlpower.description": "You can now dash forward.",
 
 	"power.added_origins.forestspawn.name": "Natural Habitat",
 	"power.added_origins.forestspawn.description": "The Darkest Forests call your name."

@@ -2,10 +2,13 @@
 	"powers": [
 		"origins:translucent",
 		"origins:fire_immunity",
-		"added_origins:not_so_fine",
-		"added_origins:lavakiller",
-		"added_origins:zythlpower",
-		"added_origins:zythlheal",
+		"added_origins:zythl/not_so_fine",
+		"added_origins:zythl/lavakiller",
+		"added_origins:zythl/lavaviewer",
+		"added_origins:zythl/lavareplacement",
+		"added_origins:zythl/lavaswimming",
+		"added_origins:zythl/zythlpower",
+		"added_origins:zythl/zythlheal",
 		"origins:no_shield"
 	],
 	"icon": "minecraft:andesite",
