@@ -1,0 +1,19 @@
+{
+  "type": "origins:multiple",
+
+  "soul_fire": {
+    "type": "origins:particle",
+    "particle": "minecraft:soul_fire_flame",
+    "frequency": 6,
+    "count": 3,
+    "spread": {"x": 0.25, "y": 0.25, "z": 0.25}
+  },
+
+  "soul": {
+    "type": "origins:particle",
+    "particle": "minecraft:soul",
+    "frequency": 12,
+    "count": 1,
+    "spread": {"x": 0.25, "y": 0.25, "z": 0.25}
+  }
+}

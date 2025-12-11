@@ -9,6 +9,7 @@
 		"added_origins:zythl/lavaswimming",
 		"added_origins:zythl/zythlpower",
 		"added_origins:zythl/zythlheal",
+		"added_origins:zythl/lavaaura",
 		"origins:no_shield"
 	],
 	"icon": "minecraft:lava_bucket",

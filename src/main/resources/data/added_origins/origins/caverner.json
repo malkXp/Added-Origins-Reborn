@@ -3,11 +3,12 @@
 		"origins:extra_reach",
 		"origins:strong_arms",
 		"origins:strong_arms_break_speed",
+		"added_origins:caverner/stone_climber",
 		"origins:more_exhaustion",
 		"added_origins:hydrophobic_legs",
-		"added_origins:nightlight"
+		"added_origins:caverner/nightlight"
 	],
-	"icon": "minecraft:player_head",
+	"icon": "minecraft:iron_pickaxe",
 	"order": 15,
 	"impact": 1
 }

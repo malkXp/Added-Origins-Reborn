@@ -249,6 +249,9 @@
 	"power.added_origins.zythl/lavareplacement.name": "Lava Walking",
 	"power.added_origins.zythl/lavareplacement.description": "You are able to walk on Lava at will.",
 
+	"power.added_origins.zythl/lavaaura.name": "Soul Presence",
+	"power.added_origins.zythl/lavaaura.description": "You naturally attract lost souls which cause them to constantly surround you.",
+
 	"power.added_origins.okcombat.name": "Untrained",
 	"power.added_origins.okcombat.description": "Dakor Warriors are less trained in combat than their Lakor counterparts.",
 
