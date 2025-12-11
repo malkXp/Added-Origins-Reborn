@@ -1,4 +1,9 @@
 {
+	"layer.added_origins.xtraterestrial.name": "Xtraterestrial Species",
+
+	"origin.added_origins.xtraterestrial.name": "Xtraterestrial",
+	"origin.added_origins.xtraterestrial.description": "The Xtraterestrial is a multi-species centered around Warmth or Cold. One of them excels in the nether with great fire abilties, while the other excels in the cold",
+
 	"origin.added_origins.advanced_rat.name": "Rat",
 	"origin.added_origins.advanced_rat.description": "The rat is a great cook!",
 
@@ -65,11 +70,11 @@
 	"origin.added_origins.silverfishiash.name": "Silverfishiash",
 	"origin.added_origins.silverfishiash.description": "The Silverfishiash are an evolved species of Silverfish.",
 
-	"origin.added_origins.xestrial.name": "Xestrial",
-	"origin.added_origins.xestrial.description": "This mythical creature has lived in cold and icy places for thousands of years. A cold presence always follows",
+	"origin.added_origins.xtraterestrial_species/xestrial.name": "Xestrial",
+	"origin.added_origins.xtraterestrial_species/xestrial.description": "This mythical creature has lived in cold and icy places for thousands of years. A cold presence always follows",
 
-	"origin.added_origins.zythl.name": "Zythl",
-	"origin.added_origins.zythl.description": "These creatures have just recently discovered the surface. For the past thousands of years, they have been dwelling underground.",
+	"origin.added_origins.xtraterestrial_species/zythl.name": "Zythl",
+	"origin.added_origins.xtraterestrial_species/zythl.description": "These creatures have just recently discovered the surface. For the past thousands of years, they have been dwelling underground.",
 
 	"power.added_origins.anormalsizeshift.name": "Normal Size Shift",
 	"power.added_origins.anormalsizeshift.description": "Switch to the size of a regular human.",
@@ -91,33 +96,6 @@
 
 	"power.added_origins.burypunch.name": "Bury Punch",
 	"power.added_origins.burypunch.description": "You bury things in the ground 4 blocks deep when you hit them.",
-
-	"power.added_origins.cookeda.name": "a",
-	"power.added_origins.cookeda.description": "a",
-
-	"power.added_origins.cookedb.name": "a",
-	"power.added_origins.cookedb.description": "a",
-
-	"power.added_origins.cookedc.name": "a",
-	"power.added_origins.cookedc.description": "a",
-
-	"power.added_origins.cookedd.name": "a",
-	"power.added_origins.cookedd.description": "a",
-
-	"power.added_origins.cookede.name": "a",
-	"power.added_origins.cookede.description": "a",
-
-	"power.added_origins.cookedf.name": "a",
-	"power.added_origins.cookedf.description": "a",
-
-	"power.added_origins.cookedg.name": "a",
-	"power.added_origins.cookedg.description": "a",
-
-	"power.added_origins.cookedh.name": "a",
-	"power.added_origins.cookedh.description": "a",
-
-	"power.added_origins.cookedi.name": "a",
-	"power.added_origins.cookedi.description": "a",
 
 	"power.added_origins.cookedfoodbetter.name": "Sense of Taste",
 	"power.added_origins.cookedfoodbetter.description": "Food becomes more satiating.",

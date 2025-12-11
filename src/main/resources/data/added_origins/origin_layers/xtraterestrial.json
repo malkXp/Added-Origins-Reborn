@@ -1,0 +1,18 @@
+{
+  "order": 1,
+  "origins": [
+    {
+      "condition": {
+        "type": "origins:origin",
+        "origin": "added_origins:xtraterestrial",
+        "layer": "origins:origin"
+      },
+      "origins": [
+        "added_origins:xtraterestrial_species/zythl",
+        "added_origins:xtraterestrial_species/xestrial"
+      ]
+    }
+  ],
+  "enabled": true,
+  "replace": false
+}

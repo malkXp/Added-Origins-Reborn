@@ -11,7 +11,7 @@
 		"added_origins:zythl/zythlheal",
 		"origins:no_shield"
 	],
-	"icon": "minecraft:andesite",
+	"icon": "minecraft:lava_bucket",
 	"order": 24,
 	"impact": 2
 }
