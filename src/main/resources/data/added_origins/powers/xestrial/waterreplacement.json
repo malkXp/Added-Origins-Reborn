@@ -1,0 +1,51 @@
+{
+  "type": "origins:multiple",
+
+  "toggle": {
+    "type": "origins:toggle",
+    "key": {
+      "key": "key.origins.secondary_active",
+      "continuous": false
+    }
+  },
+
+  "frost_walk": {
+    "type": "origins:action_over_time",
+    "entity_action": {
+      "type": "origins:execute_command",
+      "command": "function added_origins:xestrial/waterreplacementfunc"
+    },
+    "block_condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "type": "origins:offset",
+          "condition": {
+            "type": "origins:block",
+            "block": "minecraft:water"
+          },
+          "y": -1
+        }
+      ]
+    },
+    "condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "type": "origins:or",
+          "conditions": [
+            {
+              "type": "origins:block_collision",
+              "offset_y": -0.1
+            }
+          ]
+        },
+        {
+          "type": "origins:power_active",
+          "power": "*:*_toggle"
+        }
+      ]
+    },
+    "interval": 2
+  }
+}

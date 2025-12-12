@@ -88,12 +88,6 @@
 	"power.added_origins.megalodon/megalospeed.name": "Megalofins",
 	"power.added_origins.megalodon/megalospeed.description": "You are extremely fast when underwater.",
 
-	"power.added_origins.pumpkineer/blindnesshit.name": "Summoner of Darkness",
-	"power.added_origins.pumpkineer/blindnesshit.description": "You blind anything that you hit.",
-
-	"power.added_origins.pumpkineer/blindnesshit2.name": "Summoner of Darkness",
-	"power.added_origins.pumpkineer/blindnesshit2.description": "You blind anything that you hit.",
-
 	"power.added_origins.burypunch.name": "Bury Punch",
 	"power.added_origins.burypunch.description": "You bury things in the ground 4 blocks deep when you hit them.",
 
@@ -154,6 +148,13 @@
 	"power.added_origins.jumpscar/eversight.name": "Eversight",
 	"power.added_origins.jumpscar/eversight.description": "Your eyes are extremely well developed. Your eyes are resistant to all types of blindness while also having good vision in the dark.",
 
+	"power.added_origins.jumpscar/netherpunch.name": "Nauseating Storm",
+	"power.added_origins.jumpscar/netherpunch.description": "You can bring forth lightning to everything in a 15 block radius while sickening them.",
+
+	"power.added_origins.jumpscar/nosleepjumpscare.name": "Permanent Awareness",
+	"power.added_origins.jumpscar/nosleepjumpscare.description": "You can never sleep, you are forever stuck awake",
+	"power.added_origins.jumpscar/nosleepjumpscare.message": "You can never sleep... no matter what.",
+
 	"power.added_origins.lakordamagebuff.name": "Lakor Warrior",
 	"power.added_origins.lakordamagebuff.description": "As a warrior you are naturally better at combat.",
 
@@ -174,9 +175,6 @@
 
 	"power.added_origins.lightningsummon.name": "Lightning Ring",
 	"power.added_origins.lightningsummon.description": "You can summon lightning in all four directions around you.",
-
-	"power.added_origins.pumpkineer/mobarmor.name": "Mob Resistance",
-	"power.added_origins.pumpkineer/mobarmor.description": "You take less damage from mobs.",
 
 	"power.added_origins.modifyhealth.name": "Additional Health",
 	"power.added_origins.modifyhealth.description": "You have 2 times max health.",
@@ -208,15 +206,17 @@
 	"power.added_origins.necroonfiredd.name": "Diseased",
 	"power.added_origins.necroonfiredd.description": "You take additional damage from everything else.",
 
-	"power.added_origins.jumpscar/netherpunch.name": "Nauseating Storm",
-	"power.added_origins.jumpscar/netherpunch.description": "You can bring forth lightning to everything in a 15 block radius while sickening them.",
+	"power.added_origins.caverner/nightlight.name": "Night Light",
+	"power.added_origins.caverner/nightlight.description": "Caves appear brighter than normal.",
 
-	"power.added_origins.jumpscar/nosleepjumpscare.name": "Permanent Awareness",
-	"power.added_origins.jumpscar/nosleepjumpscare.description": "You can never sleep, you are forever stuck awake",
-	"power.added_origins.jumpscar/nosleepjumpscare.message": "You can never sleep... no matter what.",
+	"power.added_origins.caverner/stone_climber.name": "Alpinist",
+	"power.added_origins.caverner/stone_climber.description": "You can climb on all natural stone blocks ",
 
-	"power.added_origins.nightlight.name": "Night Light",
-	"power.added_origins.nightlight.description": "Caves appear brighter than normal.",
+	"power.added_origins.caverner/silkhands.name": "Silk Hands",
+	"power.added_origins.caverner/silkhands.description": "Your hands are able harvest items just as a stone pickaxe would.",
+
+	"power.added_origins.caverner/efficientarms.name": "Methodical Limbs",
+	"power.added_origins.caverner/efficientarms.description": "You can mine all blocks at a faster rate, but you can mine all stone types even faster.",
 
 	"power.added_origins.nohitdamage.name": "Weak Fists",
 	"power.added_origins.nohitdamage.description": "You are unable to damage anything without the use of a sword.",
@@ -227,6 +227,18 @@
 	"power.added_origins.pumpkineer/nosleeppumpkin.name": "Relentless Unrest",
 	"power.added_origins.pumpkineer/nosleeppumpkin.description": "You are unable to sleep since the souls have not been harvested...",
 	"power.added_origins.pumpkineer/nosleeppumpkin.message": "You cannot sleep, You have harvesting to do...",
+
+	"power.added_origins.pumpkineer/mobarmor.name": "Mob Resistance",
+	"power.added_origins.pumpkineer/mobarmor.description": "You take less damage from mobs.",
+
+	"power.added_origins.pumpkineer/soulharvestregen.name": "Soul Harvesting",
+	"power.added_origins.pumpkineer/soulharvestregen.description": "Absorbing souls replenishes your health.",
+
+	"power.added_origins.pumpkineer/blindnesshit.name": "Summoner of Darkness",
+	"power.added_origins.pumpkineer/blindnesshit.description": "You blind anything that you hit.",
+
+	"power.added_origins.pumpkineer/blindnesshit2.name": "Summoner of Darkness",
+	"power.added_origins.pumpkineer/blindnesshit2.description": "You blind anything that you hit.",
 
 	"power.added_origins.zythl/not_so_fine.name": "Extreme Hydrophobia",
 	"power.added_origins.zythl/not_so_fine.description": "Water immediately poisons you whenever you come in contact with it",
@@ -300,9 +312,6 @@
 	"power.added_origins.slowblind2.name": "Mole Eyes",
 	"power.added_origins.slowblind2.description": "The sun blinds your sensitive subterranean eyes.",
 
-	"power.added_origins.pumpkineer/soulharvestregen.name": "Soul Harvesting",
-	"power.added_origins.pumpkineer/soulharvestregen.description": "Absorbing souls replenishes your health.",
-
 	"power.added_origins.xestrial/speedaat.name": "Arctic Sprint",
 	"power.added_origins.xestrial/speedaat.description": "Your body uses energy from the Arctic in order to quicken itself.",
 
@@ -314,6 +323,9 @@
 
 	"power.added_origins.xestrial/resistanceimmunity.name": "Defective Potions",
 	"power.added_origins.xestrial/resistanceimmunity.description": "Fire Resistance doesn't affect you, leaving you vulnerable to heat",
+
+	"power.added_origins.xestrial/waterreplacement.name": "Frost Steps",
+	"power.added_origins.xestrial/waterreplacement.description": "You are just cold enough to be able to freeze water located directly under your feet.",
 
 	"power.added_origins.spookyenvironment.name": "Spooky Environment",
 	"power.added_origins.spookyenvironment.description": "You can summon pumpkin mobs to fight for you using your Primary Ability key.",
