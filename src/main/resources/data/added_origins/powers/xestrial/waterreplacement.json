@@ -43,6 +43,22 @@
         {
           "type": "origins:power_active",
           "power": "*:*_toggle"
+        },
+        {
+          "type": "origins:submerged_in",
+          "fluid": "minecraft:water",
+          "inverted": true
+        },
+        {
+          "type": "origins:block_in_radius",
+          "block_condition": {
+            "type": "origins:block",
+            "block": "minecraft:water"
+          },
+          "radius": 3,
+          "shape": "cube",
+          "comparison": ">=",
+          "compare_to": 3
         }
       ]
     },

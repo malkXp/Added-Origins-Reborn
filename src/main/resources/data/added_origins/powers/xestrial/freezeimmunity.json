@@ -11,5 +11,9 @@
 
   "powder_immunity": {
     "type": "added_origins:powder_snow_immune"
+  },
+
+  "true_freeze_immunity": {
+    "type": "added_origins:freeze_immune"
   }
 }
