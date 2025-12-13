@@ -1,5 +1,13 @@
 {
-  "type": "origins:lava_vision",
-  "s": 0,
-  "v": 60
+  "type": "origins:multiple",
+
+  "lava_view": {
+    "type": "origins:lava_vision",
+    "s": 0,
+    "v": 60
+  },
+
+  "fire_render": {
+    "type": "added_origins:fire_rendering_immune"
+  }
 }

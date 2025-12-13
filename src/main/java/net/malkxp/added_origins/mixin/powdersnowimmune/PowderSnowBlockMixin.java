@@ -30,6 +30,7 @@ public class PowderSnowBlockMixin {
     private static void added_origins$onEntityCollision(BlockState state, World world, BlockPos pos, Entity entity, CallbackInfo ci) {
         for (FreezeImmune canFreezePower : PowerHolderComponent.getPowers(entity, FreezeImmune.class)) {
             if (canFreezePower.isActive()) {
+                entity.extinguish();
                 ci.cancel();
                 return;
             }

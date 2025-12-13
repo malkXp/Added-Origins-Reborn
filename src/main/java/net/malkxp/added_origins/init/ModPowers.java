@@ -11,11 +11,17 @@ import net.minecraft.registry.Registry;
 public class ModPowers {
     public static final PowerFactory<?> POWDER_SNOW_IMMUNE = new PowerFactory<>(AddedOriginsReborn.id("powder_snow_immune"), new SerializableData(), data -> (type, entity) -> new PowderSnowImmune(type, entity)).allowCondition();
     public static final PowerFactory<?> FREEZE_IMMUNE = new PowerFactory<>(AddedOriginsReborn.id("freeze_immune"), new SerializableData(), data -> (type, entity) -> new FreezeImmune(type, entity)).allowCondition();
+    public static final PowerFactory<?> FIRE_RENDERING_IMMUNE = new PowerFactory<>(AddedOriginsReborn.id("fire_rendering_immune"), new SerializableData(), data -> (type, entity) -> new FireRenderingImmune(type, entity)).allowCondition();
+    //public static final PowerFactory<?> LAVA_FALLING_IMMUNE = new PowerFactory<>(AddedOriginsReborn.id("like_lava"), new SerializableData(), data -> (type, entity) -> new LavaFallingImmune(type, entity)).allowCondition();
+
+
     //public static final PowerFactory<?> FIRE_OVERLAY_CONTROL = new PowerFactory<>(AddedOriginsReborn.id("fire_overlay_control"), new SerializableData(), data -> (type, entity) -> new PowderSnowImmune(type, entity)).allowCondition();
 
     public static void registerPowers() {
         Registry.register(ApoliRegistries.POWER_FACTORY, POWDER_SNOW_IMMUNE.getSerializerId(), POWDER_SNOW_IMMUNE);
         Registry.register(ApoliRegistries.POWER_FACTORY, FREEZE_IMMUNE.getSerializerId(), FREEZE_IMMUNE);
+        Registry.register(ApoliRegistries.POWER_FACTORY, FIRE_RENDERING_IMMUNE.getSerializerId(), FIRE_RENDERING_IMMUNE);
+        //Registry.register(ApoliRegistries.POWER_FACTORY, LAVA_FALLING_IMMUNE.getSerializerId(), LAVA_FALLING_IMMUNE);
         //Registry.register(ApoliRegistries.POWER_FACTORY, FIRE_OVERLAY_CONTROL.getSerializerId(), FIRE_OVERLAY_CONTROL);
     }
 }
