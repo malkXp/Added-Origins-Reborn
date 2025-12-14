@@ -1,0 +1,28 @@
+{
+	"type": "added_origins:mob_vision_avoid",
+	"mob_condition": {
+		"type": "origins:or",
+		"conditions": [
+			{
+				"type": "origins:entity_group",
+				"group": "undead"
+			},
+			{
+				"type": "origins:entity_group",
+				"group": "arthropod"
+			},
+			{
+				"type": "origins:entity_group",
+				"group": "illager"
+			},
+			{
+				"type": "origins:entity_group",
+				"group": "default"
+			},
+			{
+				"type": "origins:entity_group",
+				"group": "aquatic"
+			}
+		]
+	}
+}

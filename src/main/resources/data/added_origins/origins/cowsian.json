@@ -3,9 +3,8 @@
 		"origins:vegetarian",
 		"origins:no_shield",
 		"origins:weak_arms",
-		"origins:scare_creepers",
 		"origins:tailwind",
-		"added_origins:cowlife"
+		"added_origins:cowsian/cowlife"
 	],
 	"icon": "minecraft:beef",
 	"order": 23,
