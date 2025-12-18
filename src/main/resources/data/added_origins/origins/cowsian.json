@@ -1,10 +1,13 @@
 {
 	"powers": [
+		"added_origins:cowsian/cowlife",
+		"added_origins:cowsian/keepfullinventory",
+		"added_origins:cowsian/truepeace",
+		"added_origins:cowsian/bovine_friend",
 		"origins:vegetarian",
 		"origins:no_shield",
 		"origins:weak_arms",
-		"origins:tailwind",
-		"added_origins:cowsian/cowlife"
+		"origins:tailwind"
 	],
 	"icon": "minecraft:beef",
 	"order": 23,

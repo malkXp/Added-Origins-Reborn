@@ -1,0 +1,11 @@
+{
+  "type": "origins:modify_damage_dealt",
+  "target_condition": {
+    "type": "origins:entity_type",
+    "entity_type": "minecraft:cow"
+  },
+  "modifier": {
+    "operation": "multiply_total",
+    "value": -1.0
+  }
+}

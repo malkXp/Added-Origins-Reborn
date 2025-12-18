@@ -94,8 +94,17 @@
 	"power.added_origins.cookedfoodbetter.name": "Sense of Taste",
 	"power.added_origins.cookedfoodbetter.description": "Food becomes more satiating.",
 
-	"power.added_origins.cowlife.name": "Cow Life",
-	"power.added_origins.cowlife.description": "Since you are a cow, most mobs will not attack you.",
+	"power.added_origins.cowsian/cowlife.name": "Neutral Peace",
+	"power.added_origins.cowsian/cowlife.description": "Mobs that use Sight to see you will not come after you, even if you hit them. Some mobs are immune to this",
+
+	"power.added_origins.cowsian/keepfullinventory.name": "Resurrection",
+	"power.added_origins.cowsian/keepfullinventory.description": "When you Resurrect, you will keep all items except for anything considered meat.",
+
+	"power.added_origins.cowsian/truepeace.name": "Blessed Creature",
+	"power.added_origins.cowsian/truepeace.description": "Your passiveness grants you immense healing capabilities",
+
+	"power.added_origins.cowsian/bovine_friend.name": "Bovine Friend",
+	"power.added_origins.cowsian/bovine_friend.description": "You are physically unable to harm cows.",
 
 	"power.added_origins.dakormage.name": "Resistant",
 	"power.added_origins.dakormage.description": "You have additional health.",
@@ -259,7 +268,7 @@
 	"power.added_origins.zythl/zythlpower.description": "You have the ability to launch yourself anywhere",
 
 	"power.added_origins.zythl/lavareplacement.name": "Lava Walking",
-	"power.added_origins.zythl/lavareplacement.description": "You are able to walk on Lava at will.",
+	"power.added_origins.zythl/lavareplacement.description": "You are able to walk on Lava at will, furthermore, you also do not take fall damage while near lava or on fire.",
 
 	"power.added_origins.zythl/lavaaura.name": "Soul Presence",
 	"power.added_origins.zythl/lavaaura.description": "You naturally attract lost souls which cause them to constantly surround you.",

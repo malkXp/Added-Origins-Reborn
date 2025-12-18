@@ -1,0 +1,11 @@
+{
+  "type": "origins:multiple",
+
+  "eachslot": {
+    "type": "origins:keep_inventory",
+    "item_condition": {
+      "type": "origins:meat",
+      "inverted": true
+    }
+  }
+}
