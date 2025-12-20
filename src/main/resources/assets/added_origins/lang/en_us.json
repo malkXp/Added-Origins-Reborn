@@ -261,6 +261,9 @@
 	"power.added_origins.zythl/lavaswimming.name": "Volcanic Diving",
 	"power.added_origins.zythl/lavaswimming.description": "You are able to swim when submerged in lava",
 
+	"added_origins.zls_badgelavaswim": "§4§l> Lava swimming: §r§4You can swim in lava just like you could in water",
+	"added_origins.zls_badgelavamovement": "§4§l> Accelerated Movement: §r§4When within 2 blocks of lava, you become 2x faster and gain jump boost",
+
 	"power.added_origins.zythl/zythlheal.name": "Molten Mending",
 	"power.added_origins.zythl/zythlheal.description": "You can frequently repair your body whenever you want.",
 
@@ -269,6 +272,9 @@
 
 	"power.added_origins.zythl/lavareplacement.name": "Lava Walking",
 	"power.added_origins.zythl/lavareplacement.description": "You are able to walk on Lava at will, furthermore, you also do not take fall damage while near lava or on fire.",
+
+	"added_origins.zlr_badgelavawalk": "§4§l> Lava walking: §r§4Only works on source lava blocks",
+	"added_origins.zlr_badgefallimmune": "§4§l> Fall Immunity: §r§4Only possible when on fire, submerged in lava, or within 2 blocks of lava",
 
 	"power.added_origins.zythl/lavaaura.name": "Soul Presence",
 	"power.added_origins.zythl/lavaaura.description": "You naturally attract lost souls which cause them to constantly surround you.",
@@ -329,6 +335,10 @@
 
 	"power.added_origins.xestrial/freezeimmunity.name": "Frost Immunity",
 	"power.added_origins.xestrial/freezeimmunity.description": "You cannot freeze, nor do you sink in snow.",
+
+	"added_origins.xfi_freezeimmunity": "§b§l> Freeze Immunity: §r§bYou cannot take direct damage from freezing",
+	"added_origins.xfi_powderimmunity": "§b§l> Powder Walking: §r§bYou can stand perfectly on powder snow without the use of leather boots",
+	"added_origins.xfi_powdermovement": "§b§l> Powder Movement: §r§bYou can traverse through powder snow without slowness at all, you can climb it and descend into it easily.",
 
 	"power.added_origins.xestrial/resistanceimmunity.name": "Defective Potions",
 	"power.added_origins.xestrial/resistanceimmunity.description": "Fire Resistance doesn't affect you, leaving you vulnerable to heat",

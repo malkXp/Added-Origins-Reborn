@@ -1,5 +1,21 @@
 {
   "type": "origins:multiple",
+  "badges": [
+    {
+      "type": "origins:tooltip",
+      "text": {
+        "translate": "added_origins.zls_badgelavaswim"
+      },
+      "sprite": "added_origins:textures/gui/badge/lava_attribute.png"
+    },
+    {
+      "type": "origins:tooltip",
+      "text": {
+        "translate": "added_origins.zls_badgelavamovement"
+      },
+      "sprite": "added_origins:textures/gui/badge/lava_attribute.png"
+    }
+  ],
 
   "lavaspeed": {
     "type": "origins:modify_lava_speed",

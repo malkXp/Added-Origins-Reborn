@@ -1,6 +1,21 @@
 {
   "type": "origins:multiple",
-
+  "badges": [
+    {
+      "type": "origins:tooltip",
+      "text": {
+        "translate": "added_origins.zlr_badgelavawalk"
+      },
+      "sprite": "added_origins:textures/gui/badge/lava_attribute.png"
+    },
+    {
+      "type": "origins:tooltip",
+      "text": {
+        "translate": "added_origins.zlr_badgefallimmune"
+      },
+      "sprite": "added_origins:textures/gui/badge/generic_heat_attribute.png"
+    }
+  ],
   "lavawalk": {
     "type": "origins:walk_on_fluid",
     "fluid": "minecraft:lava",

@@ -1,5 +1,28 @@
 {
   "type": "origins:multiple",
+  "badges": [
+    {
+      "type": "origins:tooltip",
+      "text": {
+        "translate": "added_origins.xfi_freezeimmunity"
+      },
+      "sprite": "added_origins:textures/gui/badge/generic_cold_attribute.png"
+    },
+    {
+      "type": "origins:tooltip",
+      "text": {
+        "translate": "added_origins.xfi_powderimmunity"
+      },
+      "sprite": "added_origins:textures/gui/badge/cold_attribute.png"
+    },
+    {
+      "type": "origins:tooltip",
+      "text": {
+        "translate": "added_origins.xfi_powdermovement"
+      },
+      "sprite": "added_origins:textures/gui/badge/cold_attribute.png"
+    }
+  ],
 
   "freeze_immunity": {
     "type": "origins:invulnerability",
