@@ -1,8 +1,7 @@
-package net.malkxp.added_origins.mixin.powdersnowimmune;
+/*package net.malkxp.added_origins.mixin.powdersnowimmune;
 
 import io.github.apace100.apoli.component.PowerHolderComponent;
 import net.malkxp.added_origins.power.FreezeImmune;
-import net.malkxp.added_origins.power.PowderSnowImmune;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;
 import net.minecraft.client.render.Camera;
@@ -29,10 +28,10 @@ public abstract class PowderSnowCameraMixin {
             if (canFreezePower.isActive()) {
                 BlockState blockState = this.area.getBlockState(getBlockPos());
                 if (blockState.isOf(Blocks.POWDER_SNOW)) {
-                    //cir.cancel();
+                    cir.cancel();
                 }
                 return;
             }
         }
     }
-}
+}*/
