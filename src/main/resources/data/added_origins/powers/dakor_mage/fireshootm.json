@@ -1,0 +1,15 @@
+{ 
+	"type": "origins:fire_projectile",
+	"cooldown": 400,
+	"hud_render": {
+		"bar_index": 3
+	},
+	"entity_type": "minecraft:trident",
+	"tag": "{Trident:{}}",
+	"count": 4,
+	"interval": 10,
+	"sound": "item.trident.throw",
+	"speed": 5,
+	"divergence": 0,
+	"key": "key.origins.primary_active"
+}

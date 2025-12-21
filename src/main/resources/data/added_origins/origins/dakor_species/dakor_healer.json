@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"added_origins:hugeapetite",
+		"origins:vegetarian",
+		"added_origins:dakor_healer/weakhealrange",
+		"added_origins:dakor_healer/soulsnatching",
+		"added_origins:dakor_healer/blessedsoul",
+		"added_origins:dakor_healer/selfregenerate"
+	],
+	"icon": "minecraft:shroomlight",
+	"order": 28,
+	"impact": 3
+}

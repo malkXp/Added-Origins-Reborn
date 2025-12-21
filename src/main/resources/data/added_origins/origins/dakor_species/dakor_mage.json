@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"added_origins:dakor_mage/fireshootm",
+		"added_origins:dakor_mage/dakormage",
+		"added_origins:dakor_mage/summonbeacon",
+		"added_origins:hugeapetite",
+		"added_origins:dakor_mage/waterbreathall",
+		"origins:no_shield",
+		"added_origins:dakor_mage/rainpartic"
+	],
+	"icon": "minecraft:amethyst_shard",
+	"order": 19,
+	"impact": 2
+}

@@ -31,6 +31,6 @@ public abstract class MobEntityMixin extends LivingEntity {
                 return shouldIgnore ? null : target;
             }
         }
-        return null;
+        return target;
     }
 }

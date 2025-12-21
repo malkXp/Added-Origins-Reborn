@@ -1,0 +1,58 @@
+{
+  "type": "origins:action_on_hit",
+  "badges": [
+    {
+      "type": "origins:tooltip",
+      "text": {
+        "translate": "added_origins.dhss_applywither"
+      },
+      "sprite": "added_origins:textures/gui/badge/halfwither.png"
+    },
+    {
+      "type": "origins:tooltip",
+      "text": {
+        "translate": "added_origins.dhss_applyregen"
+      },
+      "sprite": "added_origins:textures/gui/badge/halfregen.png"
+    }
+  ],
+
+  "bientity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:target_action",
+        "action": {
+          "type": "origins:apply_effect",
+          "effects": [
+            {
+              "effect": "minecraft:wither",
+              "amplifier": 1,
+              "duration": 100
+            }
+          ]
+        }
+      },
+      {
+        "type": "origins:actor_action",
+        "action": {
+          "type": "origins:apply_effect",
+          "effects": [
+            {
+              "effect": "minecraft:regeneration",
+              "amplifier": 0,
+              "duration": 100
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "cooldown": 800,
+  "hud_render": {
+    "should_render": true,
+    "sprite_location": "added_origins:textures/gui/resource_bars/resource_bar_01.png",
+    "bar_index": 0,
+    "icon_index": 0
+  }
+}

@@ -1,8 +1,13 @@
 {
 	"layer.added_origins.xtraterestrial.name": "Xtraterestrial Species",
 
+	"layer.added_origins.dakorspecies.name": "Dakor Species",
+
 	"origin.added_origins.xtraterestrial.name": "Xtraterestrial",
 	"origin.added_origins.xtraterestrial.description": "The Xtraterestrial is a multi-species centered around Warmth or Cold. One of them excels in the nether with great fire abilties, while the other excels in the cold",
+
+	"origin.added_origins.dakorspecies.name": "Dakor",
+	"origin.added_origins.dakorspecies.description": "The Dakor is a multi-species centered around darkness and shadows. They are the natural enemies of the Lakor, along with being mostly self-centered and stong.",
 
 	"origin.added_origins.advanced_rat.name": "Rat",
 	"origin.added_origins.advanced_rat.description": "The rat is a great cook!",
@@ -16,8 +21,8 @@
 	"origin.added_origins.pumpkineer.name": "Pumpkineer",
 	"origin.added_origins.pumpkineer.description": "The Pumpkineer is said to be a failed attempt at creating a new kind of golem. Instead, it now feeds off of the souls it was meant to protect.",
 
-	"origin.added_origins.dakor.name": "Dakor Healer",
-	"origin.added_origins.dakor.description": "The Dakor Healer specializes in ranged healing.",
+	"origin.added_origins.dakor_species/dakor_healer.name": "Dakor Healer",
+	"origin.added_origins.dakor_species/dakor_healer.description": "The Dakor Healer specializes in self healing and life stealing",
 
 	"origin.added_origins.dakorm.name": "Dakor Water Mage",
 	"origin.added_origins.dakorm.description": "The Dakor Water Mage is an expert in submariner combat.",
@@ -157,6 +162,9 @@
 	"power.added_origins.jumpscar/eversight.name": "Eversight",
 	"power.added_origins.jumpscar/eversight.description": "Your eyes are extremely well developed. Your eyes are resistant to all types of blindness while also having good vision in the dark.",
 
+	"added_origins.jes_eversight": "§d§l> Eversight: §r§dYou become immune to all forms of blindness (darkness/blindness)",
+	"added_origins.jes_nightvision": "§1§l> Night Vision: §r§1You have constant night vision all of the time",
+
 	"power.added_origins.jumpscar/netherpunch.name": "Nauseating Storm",
 	"power.added_origins.jumpscar/netherpunch.description": "You can bring forth lightning to everything in a 15 block radius while sickening them.",
 
@@ -244,10 +252,22 @@
 	"power.added_origins.pumpkineer/soulharvestregen.description": "Absorbing souls replenishes your health.",
 
 	"power.added_origins.pumpkineer/blindnesshit.name": "Summoner of Darkness",
-	"power.added_origins.pumpkineer/blindnesshit.description": "You blind anything that you hit.",
+	"power.added_origins.pumpkineer/blindnesshit.description": "You blind anything that you hit temporarily.",
 
-	"power.added_origins.pumpkineer/blindnesshit2.name": "Summoner of Darkness",
-	"power.added_origins.pumpkineer/blindnesshit2.description": "You blind anything that you hit.",
+	"power.added_origins.dakor_healer/weakhealrange.name": "Faint Healing Radius",
+	"power.added_origins.dakor_healer/weakhealrange.description": "You aren't that skilled at healing others, but you still try.",
+
+	"power.added_origins.dakor_healer/selfregenerate.name": "Self Regeneration",
+	"power.added_origins.dakor_healer/selfregenerate.description": "You are great at healing yourself frequently.",
+
+	"power.added_origins.dakor_healer/soulsnatching.name": "Soul Withering",
+	"power.added_origins.dakor_healer/soulsnatching.description": "When hitting someone, you can take their life for your own benefit",
+
+	"added_origins.dhss_applyregen": "§c§l> Regeneration Application: §r§cApplies Regeneration I to yourself when hitting something",
+	"added_origins.dhss_applywither": "§8§l> Wither Application: §r§8Applies Wither II to your target",
+
+	"power.added_origins.dakor_healer/blessedsoul.name": "Blessed Soul",
+	"power.added_origins.dakor_healer/blessedsoul.description": "All healing effects on you are tripled no matter what",
 
 	"power.added_origins.zythl/not_so_fine.name": "Extreme Hydrophobia",
 	"power.added_origins.zythl/not_so_fine.description": "Water immediately poisons you whenever you come in contact with it",

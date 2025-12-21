@@ -3,18 +3,18 @@
 	"entity_action": {
 		"type": "origins:spawn_effect_cloud",
 		"radius": 11.0,
-		"wait_time": 100,
+		"wait_time": 0,
 		"effect": {
 			"effect": "minecraft:regeneration",
 			"amplifier": 1,
-			"duration": 1000
+			"duration": 200
 		}
 	},
 	"hud_render": {
 		"should_render": true,
-		"bar_index": 19,
-		"sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_01.png"
+		"bar_index": 1,
+		"sprite_location": "added_origins:textures/gui/resource_bars/resource_bar_01.png"
 	},
 	"cooldown": 1390,
-	"key": "primary"
+	"key": "key.origins.primary_active"
 }

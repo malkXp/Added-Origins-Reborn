@@ -36,5 +36,5 @@
     "should_render": true,
     "bar_index": 4
 	},
-	"key": "primary"
+	"key": "key.origins.primary_active"
 }

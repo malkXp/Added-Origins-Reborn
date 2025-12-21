@@ -15,7 +15,6 @@
   },
   "client": [
     "overlayrenderer.InGameOverlayRendererMixin",
-    "powdersnowimmune.BackgroundRendererMixin",
-    "powdersnowimmune.PowderSnowCameraMixin"
+    "powdersnowimmune.BackgroundRendererMixin"
   ]
 }

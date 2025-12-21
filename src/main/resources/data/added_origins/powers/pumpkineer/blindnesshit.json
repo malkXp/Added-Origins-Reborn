@@ -2,11 +2,23 @@
   "type": "origins:target_action_on_hit",
   "entity_action": {
     "type": "origins:apply_effect",
-    "effect": {
-      "effect": "minecraft:blindness",
-      "amplifier": 255,
-      "duration": 120
-    }
+    "effects": [
+      {
+        "effect": "minecraft:blindness",
+        "amplifier": 255,
+        "duration": 120
+      },
+      {
+        "effect": "minecraft:darkness",
+        "amplifier": 255,
+        "duration": 120
+      },
+      {
+        "effect": "minecraft:slowness",
+        "amplifier": 255,
+        "duration": 120
+      }
+    ]
   },
   "cooldown": 300,
   "hud_render": {

@@ -1,0 +1,18 @@
+{
+  "order": 1,
+  "origins": [
+    {
+      "condition": {
+        "type": "origins:origin",
+        "origin": "added_origins:dakorspecies",
+        "layer": "origins:origin"
+      },
+      "origins": [
+        "added_origins:dakor_species/dakor_healer",
+        "added_origins:dakor_species/dakor_mage"
+      ]
+    }
+  ],
+  "enabled": true,
+  "replace": false
+}

@@ -1,5 +1,21 @@
 {
   "type": "origins:multiple",
+  "badges": [
+    {
+      "type": "origins:tooltip",
+      "text": {
+        "translate": "added_origins.jes_eversight"
+      },
+      "sprite": "added_origins:textures/gui/badge/eversightdual.png"
+    },
+    {
+      "type": "origins:tooltip",
+      "text": {
+        "translate": "added_origins.jes_nightvision"
+      },
+      "sprite": "added_origins:textures/gui/badge/visiondual.png"
+    }
+  ],
 
   "immunity": {
     "type": "origins:effect_immunity",

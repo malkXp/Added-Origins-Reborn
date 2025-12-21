@@ -1,0 +1,62 @@
+{
+  "type": "origins:active_self",
+  "entity_action": {
+    "type": "origins:area_of_effect",
+    "radius": 50,
+    "shape": "square",
+    "bientity_action": {
+      "type": "origins:and",
+      "actions": [
+        {
+          "type": "origins:target_action",
+          "action": {
+            "type": "origins:apply_effect",
+            "effects": [
+              {
+                "effect": "minecraft:glowing",
+                "duration": 800,
+                "is_ambient": false,
+                "show_particles": false,
+                "show_icon": false
+              },
+              {
+                "effect": "minecraft:water_breathing",
+                "duration": 800,
+                "is_ambient": false,
+                "show_particles": false,
+                "show_icon": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "origins:actor_action",
+          "action": {
+            "type": "origins:apply_effect",
+            "effects": [
+              {
+                "effect": "minecraft:glowing",
+                "duration": 800,
+                "is_ambient": false,
+                "show_particles": false,
+                "show_icon": false
+              },
+              {
+                "effect": "minecraft:water_breathing",
+                "duration": 1600,
+                "is_ambient": false,
+                "show_particles": false,
+                "show_icon": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "cooldown": 2600,
+  "hud_render": {
+    "should_render": true
+  },
+  "key": "key.origins.secondary_active"
+}
