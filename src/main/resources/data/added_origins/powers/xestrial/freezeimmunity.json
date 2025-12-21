@@ -38,5 +38,12 @@
 
   "true_freeze_immunity": {
     "type": "added_origins:freeze_immune"
+  },
+
+  "better_psvision": {
+    "type": "added_origins:fog_intensity",
+    "fogStart": 0.0,
+    "fogEnd": 8.0,
+    "fogType": "POWDER_SNOW"
   }
 }

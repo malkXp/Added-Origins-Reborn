@@ -14,7 +14,7 @@
     "requireAnnotations": true
   },
   "client": [
-    "overlayrenderer.InGameOverlayRendererMixin",
-    "powdersnowimmune.BackgroundRendererMixin"
+    "changefogeffectiveness.SeparateBackgroundRendererMixin",
+    "overlayrenderer.InGameOverlayRendererMixin"
   ]
 }
