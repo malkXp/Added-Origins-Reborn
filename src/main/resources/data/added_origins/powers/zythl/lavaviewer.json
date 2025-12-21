@@ -4,7 +4,7 @@
   "lava_view": {
     "type": "origins:lava_vision",
     "s": 0,
-    "v": 60
+    "v": 100
   },
 
   "fire_render": {
