@@ -11,5 +11,16 @@
 	"sound": "item.trident.throw",
 	"speed": 5,
 	"divergence": 0,
+	"shooter_action": {
+		"type": "origins:change_resource",
+		"resource": "added_origins:dakor_mage/watermagicslots",
+		"change": -1
+	},
+	"condition": {
+		"type": "origins:resource",
+		"resource": "added_origins:dakor_mage/watermagicslots",
+		"comparison": ">=",
+		"compare_to": 4
+	},
 	"key": "key.origins.primary_active"
 }
