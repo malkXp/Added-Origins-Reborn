@@ -153,9 +153,6 @@
 	"power.added_origins.hydrophobic_legs.name": "Incompetent Swimmer",
 	"power.added_origins.hydrophobic_legs.description": "You are slower in water.",
 
-	"power.added_origins.xestrial/icysubstance.name": "Chilling Potential",
-	"power.added_origins.xestrial/icysubstance.description": "Your powers increase while within a cold biome",
-
 	"power.added_origins.illusionerarmy.name": "Illusioner Minions",
 	"power.added_origins.illusionerarmy.description": "You can summon an army of Illusioners using your Secondary Ability key.",
 
@@ -189,9 +186,6 @@
 
 	"power.added_origins.lastchancefighter.name": "Natural Defense",
 	"power.added_origins.lastchancefighter.description": "You have additional resistance.",
-
-	"power.added_origins.xestrial/lavahaterxes.name": "Fire Susceptible",
-	"power.added_origins.xestrial/lavahaterxes.description": "Having a chance to escape fire was fine. Now it kills you instantly.",
 
 	"power.added_origins.less_hunger.name": "Small Appetite",
 	"power.added_origins.less_hunger.description": "You eat less than others.",
@@ -359,11 +353,17 @@
 	"power.added_origins.xestrial/speedaat.name": "Arctic Sprint",
 	"power.added_origins.xestrial/speedaat.description": "Your body uses energy from the Arctic in order to quicken itself.",
 
+	"power.added_origins.xestrial/lavahaterxes.name": "Fire Susceptible",
+	"power.added_origins.xestrial/lavahaterxes.description": "Having a chance to escape fire was fine. Now it kills you instantly.",
+
 	"power.added_origins.xestrial/snowaura.name": "Chilling Presence",
 	"power.added_origins.xestrial/snowaura.description": "You are always surrounded by snow",
 
 	"power.added_origins.xestrial/freezeimmunity.name": "Frost Immunity",
 	"power.added_origins.xestrial/freezeimmunity.description": "You cannot freeze, nor do you sink in snow.",
+
+	"power.added_origins.xestrial/icysubstance.name": "Chilling Potential",
+	"power.added_origins.xestrial/icysubstance.description": "Your strength increases while within a cold biome",
 
 	"added_origins.xfi_freezeimmunity": "§b§l> Freeze Immunity: §r§bYou cannot take direct damage from freezing",
 	"added_origins.xfi_powderimmunity": "§b§l> Powder Walking: §r§bYou can stand perfectly on powder snow without the use of leather boots",
@@ -374,6 +374,9 @@
 
 	"power.added_origins.xestrial/waterreplacement.name": "Frost Steps",
 	"power.added_origins.xestrial/waterreplacement.description": "You are just cold enough to be able to freeze water located directly under your feet.",
+
+	"power.added_origins.xestrial/xestriallaunch.name": "Glacial Force",
+	"power.added_origins.xestrial/xestriallaunch.description": "You have the ability to launch yourself anywhere",
 
 	"power.added_origins.spookyenvironment.name": "Spooky Environment",
 	"power.added_origins.spookyenvironment.description": "You can summon pumpkin mobs to fight for you using your Primary Ability key.",
@@ -407,9 +410,6 @@
 
 	"power.added_origins.weakhealrange.name": "Ranged Heal",
 	"power.added_origins.weakhealrange.description": "You can heal a group of entities by pressing your Primary Ability key.",
-
-	"power.added_origins.xestrial/xestriallaunch.name": "Glacial Force",
-	"power.added_origins.xestrial/xestriallaunch.description": "You have the ability to launch yourself anywhere",
 
 	"power.added_origins.forestspawn.name": "Natural Habitat",
 	"power.added_origins.forestspawn.description": "The Darkest Forests call your name."
