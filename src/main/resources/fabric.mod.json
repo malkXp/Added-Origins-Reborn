@@ -19,7 +19,7 @@
 		"issues": "https://github.com/malkXp/Added-Origins-Reborn/issues"
 	},
 	"license": "MIT",
-	"icon": "assets/added_origins/icon.png",
+	"icon": "assets/added_origins/Icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
