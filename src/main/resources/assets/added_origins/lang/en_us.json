@@ -22,10 +22,10 @@
 	"origin.added_origins.pumpkineer.description": "The Pumpkineer is said to be a failed attempt at creating a new kind of golem. Instead, it now feeds off of the souls it was meant to protect.",
 
 	"origin.added_origins.dakor_species/dakor_healer.name": "Dakor Healer",
-	"origin.added_origins.dakor_species/dakor_healer.description": "The Dakor Healer specializes in self healing and life stealing",
+	"origin.added_origins.dakor_species/dakor_healer.description": "The Dakor Healer specializes in self healing and life stealing.",
 
-	"origin.added_origins.dakorm.name": "Dakor Water Mage",
-	"origin.added_origins.dakorm.description": "The Dakor Water Mage is an expert in submariner combat.",
+	"origin.added_origins.dakor_species/dakor_mage.name": "Dakor Water Mage",
+	"origin.added_origins.dakor_species/dakor_mage.description": "The Dakor Water Mage is an expert in subaquatic combat.",
 
 	"origin.added_origins.dakorw.name": "Dakor Warrior",
 	"origin.added_origins.dakorw.description": "The Dakor Warrior is capable of channeling Rage Magic, which enhances their combat capabilities for a short period of time.",
@@ -111,17 +111,26 @@
 	"power.added_origins.cowsian/bovine_friend.name": "Bovine Friend",
 	"power.added_origins.cowsian/bovine_friend.description": "You are physically unable to harm cows.",
 
-	"power.added_origins.dakormage.name": "Resistant",
-	"power.added_origins.dakormage.description": "You have additional health.",
-
 	"power.added_origins.dividefalldamage.name": "Fall Damage Magic",
 	"power.added_origins.dividefalldamage.description": "You take half as much fall damage as you used to!",
 
 	"power.added_origins.megalodon/drinkwaterwb.name": "Bottle Quenching",
 	"power.added_origins.megalodon/drinkwaterwb.description": "Drinking from any type of potion restores air while on land.",
 
-	"power.added_origins.fireshootm.name": "Trident Magic",
-	"power.added_origins.fireshootm.description": "You can launch tridents using you Primary Ability key.",
+	"power.added_origins.dakor_mage/fireshootm.name": "Trident Sorcery",
+	"power.added_origins.dakor_mage/fireshootm.description": "You can summon tridents against your enemies with your powers.",
+
+	"power.added_origins.dakor_mage/dakormage.name": "Dark Benefits",
+	"power.added_origins.dakor_mage/dakormage.description": "As a mage, you gain larger health reserves to use at your disposal.",
+
+	"power.added_origins.dakor_mage/waterbreathall.name": "Amphibious",
+	"power.added_origins.dakor_mage/waterbreathall.description": "You can breathe on land and while submerged.",
+
+	"power.added_origins.dakor_mage/summonbeacon.name": "Revealing Domain",
+	"power.added_origins.dakor_mage/summonbeacon.description": "Using your power, you can reveal all entities within a 50 block square around you, which will apply water breathing and glowing to affected entities. The caster of the spell gains dolphin's grace on usage.",
+
+	"power.added_origins.dakor_mage/watermagicslots.name": "Aqua Magic",
+	"power.added_origins.dakor_mage/watermagicslots.description": "Your powers require water magic to use, it will continuously fill up over time if you have 5 or more bars of hunger, but at a slow rate. it takes over 3 minutes to fully recharge your magic. Upon regaining all magic, you will be heals for 5 hearts.",
 
 	"power.added_origins.foodgiver.name": "Food Boost",
 	"power.added_origins.foodgiver.description": "Food becomes more satiating for a period of time when pressing the Primary Ability key.",
@@ -395,9 +404,6 @@
 
 	"power.added_origins.water_breath.name": "Roach Lungs",
 	"power.added_origins.water_breath.description": "You can breathe underwater for a short period of time.",
-
-	"power.added_origins.waterbreathall.name": "Amphibious",
-	"power.added_origins.waterbreathall.description": "You can breathe on land and while submerged.",
 
 	"power.added_origins.weakhealrange.name": "Ranged Heal",
 	"power.added_origins.weakhealrange.description": "You can heal a group of entities by pressing your Primary Ability key.",

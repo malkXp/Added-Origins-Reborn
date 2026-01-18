@@ -1,0 +1,15 @@
+{
+  "type": "origins:action_over_time",
+  "entity_action": {
+    "type": "origins:change_resource",
+    "resource": "added_origins:dakor_mage/watermagicslots",
+    "change": 1
+  },
+  "interval": 150,
+  "condition": {
+    "type": "origins:food_level",
+    "comparison": ">=",
+    "compare_to": 10
+  },
+  "hidden": true
+}
